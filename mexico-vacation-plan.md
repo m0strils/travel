@@ -5,9 +5,41 @@
 | Detail | Information |
 |--------|-------------|
 | **Duration** | 9 Days |
+| **When** | **January** (excellent timing - dry season, whale watching, cultural events) |
 | **Destinations** | Toluca & Surroundings (4 days) → **Zihuatanejo** (4 days) → Departure |
-| **Best Time** | November - April (dry season) |
-| **Avoid** | July (wettest month in Toluca region) |
+| **Local Advantage** | Partner is from Toluca - local knowledge for the best spots! |
+
+---
+
+## January: Why It's Perfect
+
+### What's Happening
+
+| Event | When | Where | Details |
+|-------|------|-------|---------|
+| **Día de Reyes** (Three Kings Day) | January 6 | Everywhere | Major holiday - Rosca de Reyes, gifts, family gatherings |
+| **Whale Watching Season** | Dec 15 - Mar 20 | Zihuatanejo coast | Humpback whales - prime viewing |
+| **Baby Turtle Releases** | Aug - Feb | Playa Blanca | Still in season! |
+| **Tequila Rock 'n Blues Fest** | Mid-January | Zihuatanejo/Ixtapa | If dates align - check schedule |
+
+### Día de Reyes (January 6) - Don't Miss This
+
+If you're in Mexico around January 6th, you'll experience one of the most important holidays:
+
+| Tradition | What It Is |
+|-----------|------------|
+| **Rosca de Reyes** | Oval sweet bread with hidden baby Jesus figurines - whoever finds one hosts a party on Feb 2nd (tamales!) |
+| **Gift giving** | Kids receive gifts from Los Reyes Magos (Three Wise Men) - bigger than Christmas for many families |
+| **Family gatherings** | Hot chocolate, atole, family time |
+
+**With a local partner**: She'll know where to get the best Rosca and how her family celebrates. This is special - lean into it.
+
+### January Weather
+
+| Location | Conditions |
+|----------|------------|
+| **Toluca** | Cool and dry. Days ~65-70°F, nights can drop to ~40°F. Bring layers. |
+| **Zihuatanejo** | Warm and dry. ~85°F days, ~70°F nights. Perfect beach weather. |
 
 ---
 
@@ -303,17 +335,23 @@ Pick your adventure (or don't):
 - Captain makes ceviche from your catch
 - Back by noon, afternoon at the beach
 
-**Option C: Sunset Catamaran Cruise**
+**Option C: Whale Watching** ⭐ *January is prime season!*
+- Humpback whales migrate to these warm waters Dec-March
+- Morning trips best (calmer seas)
+- Whales often swim right alongside boats
+- Combine with Picante sunset cruise for full day
+
+**Option D: Sunset Catamaran Cruise**
 - Picante Cruises is well-reviewed
 - Sails the bay, open bar, dinner included
-- Whale watching Dec-March
+- May spot whales on evening cruise too
 
-**Option D: Baby Turtle Release** (Aug-Feb only)
+**Option E: Baby Turtle Release** (Aug-Feb only)
 - Afternoon at beach, then taxi to Playa Blanca for 5-6pm release
 - Free, magical, unforgettable
 - Call ahead: +52 755 559 0441
 
-**Option E: Do Nothing**
+**Option F: Do Nothing**
 - Sleep late
 - Beach all day
 - That's the whole plan
