@@ -1,11 +1,11 @@
-# Mexico Vacation Plan: Toluca Region + Pacific Beach
+# Mexico Vacation Plan: Toluca Region + Zihuatanejo
 
 ## Trip Overview
 
 | Detail | Information |
 |--------|-------------|
 | **Duration** | 9 Days |
-| **Destinations** | Toluca & Surroundings (4 days) → Pacific Beach (4 days) → Departure |
+| **Destinations** | Toluca & Surroundings (4 days) → **Zihuatanejo** (4 days) → Departure |
 | **Best Time** | November - April (dry season) |
 | **Avoid** | July (wettest month in Toluca region) |
 
@@ -25,17 +25,13 @@
 - Calixtlahuaca archaeological ruins
 - Valle de Bravo (lakeside town, adventure activities)
 
-### Beach Destination Comparison
+### Zihuatanejo
 
-| Aspect | Zihuatanejo | Puerto Vallarta |
-|--------|-------------|-----------------|
-| **Vibe** | Romantic, peaceful, authentic | Cosmopolitan, vibrant, diverse |
-| **Size** | Small fishing town | Large city (220k+) |
-| **Flight from Toluca** | ~1 hr direct (TLC→ZIH) | ~1.5 hrs (may connect via GDL) |
-| **Best For** | Relaxation, fishing, couples | Variety, nightlife, LGBTQ+ friendly |
-| **Beaches** | 4 intimate bays | 42km coastline + Sayulita nearby |
-| **Food Scene** | Fresh seafood, local spots | International + Mexican variety |
-| **Nightlife** | Quiet, sunset-focused | Active bars, clubs, live music |
+- **Location**: Pacific coast, Guerrero state
+- **Vibe**: Romantic, peaceful, authentic fishing village
+- **Flight from Toluca**: ~1 hr direct (TLC→ZIH)
+- **Best For**: Relaxation, fresh seafood, couples, getting away from crowds
+- **Beaches**: 4 intimate bays - La Ropa, Las Gatas, Madera, Principal
 
 ---
 
@@ -61,11 +57,24 @@
 |------|----------|-------|
 | 9:00 AM | Leisurely breakfast | Local café or hotel |
 | 10:30 AM | Cosmovitral Botanical Garden | World's largest stained glass mural, 3,000+ plants. Take your time - it's stunning |
-| 1:00 PM | Lunch at Portales | Traditional restaurants around main square |
-| 3:00 PM | Calixtlahuaca ruins | Aztec circular pyramid, 30 min from centro. Less crowded than Day 4 alternative |
-| 6:00 PM | Return, free evening | Rest or explore more of Centro |
+| 1:00 PM | **Lunch at Amaranta** | Reserve ahead - see details below |
+| 4:00 PM | Calixtlahuaca ruins | Aztec circular pyramid, 30 min from centro |
+| 7:00 PM | Return, relaxed evening | Light dinner in Centro |
 
-**Why move ruins here?** Day 4 was too packed. This spreads things out.
+#### Amaranta Restaurant
+
+| Detail | Info |
+|--------|------|
+| **What** | Contemporary Mexiquense cuisine by Chef Pablo Salas |
+| **Recognition** | Latin America's 50 Best Restaurants list |
+| **Style** | 7-course tasting menu, changes every 2 months |
+| **Known For** | Local ingredients, bold flavors, excellent pork dishes |
+| **Price** | ~$50-60 USD per person (food + drink) |
+| **Hours** | Mon-Fri 8am-6pm, Sat-Sun 9am-6pm |
+| **Address** | Calle Gral. Francisco Murguía Pte. 402, Col. Universidad |
+| **Reserve** | [amarantarestaurante.com](https://www.amarantarestaurante.com/) or OpenTable |
+
+**Tip**: This is the splurge meal for Toluca. Make reservations in advance - it's the best restaurant in the region.
 
 ---
 
@@ -105,22 +114,51 @@
 
 ---
 
-## Days 5-8: Beach Options
+## Days 5-8: Zihuatanejo
 
-Choose your vibe - both itineraries follow the same daily rhythm:
+*Relaxation, authentic Mexico, fresh seafood*
 
 | Day | Theme |
 |-----|-------|
 | **Day 5** | Settle in, explore town, sunset beach |
-| **Day 6** | Water activity (snorkeling or boat trip) |
-| **Day 7** | Flex day - adventure or pure relaxation |
+| **Day 6** | Snorkeling at Las Gatas |
+| **Day 7** | Flex day - fishing, cruise, or pure relaxation |
 | **Day 8** | Final beach day, leisurely departure prep |
 
 ---
 
-# Option A: Zihuatanejo
+## Zihuatanejo Seafood Guide
 
-*Best for: Relaxation, authentic Mexico, seafood lovers, couples*
+This is a fishing town - the seafood is exceptional. Here's where to eat:
+
+### Top Picks
+
+| Restaurant | Location | Known For | Vibe |
+|------------|----------|-----------|------|
+| **Tritón** | Playa La Ropa | Tuna tataki, octopus taco, catch of the day | Toes in sand, live music, sunset views |
+| **La Sirena Gorda** | Downtown pier | Fish tacos, *sirenita* tacos, octopus with bacon | Legendary since 1985, local institution |
+| **Kau-Kan** | Beachfront | Stingray in black butter, creative seafood | Upscale, romantic, Chef Ricardo Rodriguez |
+| **La Gaviota** | End of La Ropa | Whole grilled fish, traditional preparations | Decades-old, stunning bay views |
+| **El Manglar** | Playa La Ropa | Deep-fried fish tacos, mahi mahi, fajitas | Wildlife (iguanas!), relaxed |
+| **La Perla** | Playa La Ropa | Grilled snapper, lobster, shrimp | Classic beachfront, reasonable prices |
+
+### Must-Try Dishes
+
+- **Pescado a la talla** - butterflied whole fish, grilled with chili-mayo. THE regional specialty.
+- **Tiritas** - raw fish cured in lime juice with onion and chili (Zihuatanejo's ceviche)
+- **Tacos de pescado** - simple, fresh, perfect
+- **Huachinango** (red snapper) - prepared any style, it's local and ultra-fresh
+- **Ceviche** - varies by restaurant, always good
+
+### By Meal
+
+| Meal | Best Bets |
+|------|-----------|
+| **Breakfast** | Margaritas (La Madera) - chilaquiles, huevos rancheros |
+| **Casual Lunch** | La Sirena Gorda, any beachfront palapa |
+| **Nice Dinner** | Kau-Kan, Tritón, La Gaviota |
+| **Splurge** | Tritón at sunset with wine |
+| **Late Night** | Bandido's - molcajete fajitas, live music, dancing |
 
 ## The Beaches
 
@@ -208,121 +246,7 @@ Choose your vibe - both itineraries follow the same daily rhythm:
 | 6:00 PM | Pack, light early dinner |
 | | Prepare for departure tomorrow |
 
-**Splurge Meal**: Order *pescado a la talla* (butterflied whole fish, grilled with chili-mayo) - it's the regional specialty.
-
----
-
-# Option B: Puerto Vallarta
-
-*Best for: Variety-seekers, nightlife, LGBTQ+ travelers, first-timers wanting options*
-
-## The Neighborhoods
-
-| Area | Vibe | Best For |
-|------|------|----------|
-| **Zona Romántica** | Walkable, lively, LGBTQ+ hub | Dining, nightlife, staying |
-| **Malecón** | Mile-long boardwalk, sculptures | Sunset walks, street performers |
-| **Marina Vallarta** | Upscale, yachts, resorts | Shopping, quieter stay |
-| **Sayulita** (45 min north) | Bohemian surf town | Day trip, surfing, hippie vibes |
-
-## The Beaches
-
-| Beach | Vibe | Best For |
-|-------|------|----------|
-| **Playa de los Muertos** | Main beach, Zona Romántica | Swimming, people-watching |
-| **Playa Conchas Chinas** | Quieter, south of town | Fewer crowds, snorkeling |
-| **Las Ánimas** | Boat access only | Secluded, day-trip adventure |
-| **Marietas Islands** | Protected reserve, boat tour | Hidden Beach (permit required) |
-
-## Day 5: Arrive & Zona Romántica
-
-| Time | Activity |
-|------|----------|
-| Morning | Sleep in |
-| Late Morning | Breakfast in Zona Romántica |
-| Afternoon | Explore the neighborhood - cobblestones, galleries, shops |
-| 5:00 PM | Walk the Malecón for sunset - sculptures, street performers |
-| Evening | Dinner and drinks in Zona Romántica |
-
-**Where to Eat**:
-- **Panchos Takos** - legendary tacos al pastor, expect a line
-- **Maria Baja** - excellent fish tacos, locals' favorite, affordable
-
-**Evening Drinks**:
-- **El Soñador** - rooftop, pool table, casual
-- **Twisted Palms** - rooftop lounge, martinis, live music
-
----
-
-## Day 6: Sayulita Day Trip
-
-| Time | Activity |
-|------|----------|
-| 9:00 AM | Taxi/Uber to Sayulita (~45 min, ~$30-40 USD) |
-| 10:00 AM | Coffee, explore the bohemian town |
-| 11:00 AM | **Optional**: Surf lesson (beginner-friendly waves) |
-| 1:00 PM | Lunch - healthy cafes, fresh seafood |
-| 2:00 PM | Beach time, browse artisan shops |
-| 5:00 PM | Head back to PVR |
-| 7:00 PM | Dinner in town, early night |
-
-**Sayulita Tip**: It's small. 3-4 hours is plenty unless you're surfing all day. Consider stopping at San Pancho (another cute town) on the way back.
-
-**Where to Eat in Sayulita**: ChocoBanana (healthy bowls, famous), or any beachfront spot for ceviche.
-
----
-
-## Day 7: Flex Day
-
-**Option A: Marietas Islands & Hidden Beach**
-- Famous collapsed crater beach you swim into
-- Book in advance - permits required, limited daily access
-- Full day trip, includes snorkeling, lunch
-- ~$100-150 USD per person
-- Note: Can't go Mondays/Tuesdays, no sunscreen allowed
-
-**Option B: Boat to Hidden Beaches**
-- Playa Colomitos, Las Ánimas - boat access only
-- Less regulated than Marietas, more spontaneous
-- Half-day option available
-
-**Option C: Beach & City Day**
-- Morning at Playa de los Muertos or Conchas Chinas
-- Afternoon exploring galleries, shopping
-- Evening nightlife if you're up for it
-
-| Time | If Marietas Trip | If Relaxation Day |
-|------|------------------|-------------------|
-| 8:00 AM | Boat departs early | Sleep in |
-| Morning | Islands, snorkeling, Hidden Beach | Beach, pool, coffee |
-| Afternoon | Return ~3 PM, rest | Explore, shop, massage |
-| Evening | Chill dinner | **Optional**: PVR nightlife |
-
-**PVR Nightlife** (if interested):
-- **La Noche** - 3 floors, rooftop, drag shows
-- **Mr. Flamingo** - open air, dancing, party vibe
-- **Los Muertos Brewing** - craft beer, chill
-
-**Where to Eat**:
-- **Mariscos Cisneros** - fresh seafood, local favorite
-- **Archie's Wok** - Thai/Asian fusion, romantic atmosphere
-
----
-
-## Day 8: Final Day
-
-| Time | Activity |
-|------|----------|
-| Morning | Sleep in, leisurely breakfast |
-| 11:00 AM | Final beach time - your favorite spot |
-| 1:00 PM | Nice lunch - splurge meal |
-| Afternoon | Marina Vallarta for shopping, or just pool/beach |
-| 6:00 PM | Pack, farewell dinner |
-| | Prepare for departure tomorrow |
-
-**Splurge Options**:
-- **Mar y Vino** (Malecón) - oceanfront, in-pool seating option
-- **Vita Grill** - great food, amazing views
+**Splurge Meal**: Order *pescado a la talla* at Tritón or La Gaviota - it's the regional specialty.
 
 ---
 
@@ -331,8 +255,9 @@ Choose your vibe - both itineraries follow the same daily rhythm:
 | Time | Activity |
 |------|----------|
 | Morning | Final breakfast, beach walk |
-| | Check out, airport transfer |
-| | Depart ZIH (~20 min to airport) or PVR (~30 min) |
+| | Check out |
+| | Taxi to ZIH airport (~20 min) |
+| | Depart Zihuatanejo |
 
 ---
 
@@ -343,18 +268,15 @@ Choose your vibe - both itineraries follow the same daily rhythm:
 | Route | Airlines | Duration | Notes |
 |-------|----------|----------|-------|
 | TLC → ZIH | Volaris, VivaAerobus | ~1 hr | Check for direct flights |
-| TLC → PVR | Volaris, VivaAerobus | ~1.5 hrs | May connect via GDL |
 | MEX → ZIH | Aeromexico, Volaris | ~1 hr | More flight options from MEX |
-| MEX → PVR | Multiple carriers | ~1.5 hrs | Most frequent service |
 
 ### Ground Transportation
 
 | Segment | Recommendation |
 |---------|----------------|
 | Toluca region | **Rent a car** - essential for Nevado de Toluca, Valle de Bravo |
-| Toluca → Beach | **Fly** - return rental car at TLC or MEX |
-| Zihuatanejo | Taxis sufficient, walkable downtown |
-| Puerto Vallarta | Uber available, taxis, walkable in Zona Romántica |
+| Toluca → Zihuatanejo | **Fly** - return rental car at TLC or MEX airport |
+| Zihuatanejo | Taxis sufficient, downtown is walkable |
 
 ### Packing Checklist
 
@@ -367,7 +289,7 @@ Choose your vibe - both itineraries follow the same daily rhythm:
 
 **For Beach**:
 - [ ] Swimsuits (2-3)
-- [ ] Reef-safe sunscreen (required at Marietas, good practice everywhere)
+- [ ] Reef-safe sunscreen (good practice at Las Gatas reef)
 - [ ] Sandals and water shoes
 - [ ] Light, breathable clothing
 - [ ] Hat and sunglasses
@@ -394,28 +316,11 @@ Choose your vibe - both itineraries follow the same daily rhythm:
 
 ---
 
-## Quick Decision Guide
-
-| If you want... | Choose... |
-|----------------|-----------|
-| Peace and quiet | Zihuatanejo |
-| Options and variety | Puerto Vallarta |
-| Authentic Mexican beach town | Zihuatanejo |
-| Easier solo travel / meeting people | Puerto Vallarta |
-| Best snorkeling | Zihuatanejo (Las Gatas) or PVR (Marietas Islands) |
-| Nightlife | Puerto Vallarta |
-| Surfing | Puerto Vallarta (Sayulita day trip) |
-| Sport fishing | Zihuatanejo |
-| LGBTQ+ welcoming | Puerto Vallarta (very) - Zihuatanejo (friendly but quieter) |
-
----
-
 ## Sources
 
+- [Amaranta Restaurant](https://www.amarantarestaurante.com/) - Chef Pablo Salas, Toluca
 - [Cultures Traveled - Best Restaurants in Zihuatanejo](https://culturestraveled.com/best-restaurants-zihuatanejo-mexico/)
 - [TripAdvisor - Zihuatanejo Restaurants](https://www.tripadvisor.com/Restaurants-g150795-Zihuatanejo_Zihuatanejo_de_Azueta_Pacific_Coast.html)
-- [Michael & Matt - Puerto Vallarta Restaurants](https://www.michaelandmatt.com/blog/10-restaurants-in-puerto-vallarta-you-need-to-try-zona-romantica)
-- [Vallarta Adventures - Zona Romántica Guide](https://www.vallarta-adventures.com/en/blog/puerto-vallarta-romantic-zone-guide)
-- [Vallarta Adventures - Marietas Islands](https://www.vallarta-adventures.com/en/tour/marietas-eco-discovery)
 - [Picante Cruises - Zihuatanejo](https://www.picantecruises.com/)
 - [TripAdvisor - Zihuatanejo Boat Tours](https://www.tripadvisor.com/Attractions-g150795-Activities-c61-t167-Zihuatanejo_Zihuatanejo_de_Azueta_Pacific_Coast.html)
+- [La Ropa Beach Guide](https://www.laropabeach.com/restaurants.html)
