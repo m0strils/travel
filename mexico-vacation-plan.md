@@ -494,6 +494,83 @@ Pick your adventure (or don't):
 
 ---
 
+## Pre-Trip Booking Checklist
+
+### Must Book in Advance
+
+| What | Details | When to Book | Links |
+|------|---------|--------------|-------|
+| ✈️ **International flights** | Arrive MEX or TLC on Sat, Jan 17 | ASAP - prices rise closer to date | Google Flights, Skyscanner |
+| ✈️ **Internal flight** | TLC or MEX → ZIH, Tue Jan 20 (5-7pm) | ASAP | [Volaris](https://www.volaris.com), [VivaAerobus](https://www.vivaaerobus.com) |
+| ✈️ **Return flight** | ZIH → Home, Sun Jan 25 | ASAP | Same as international |
+| 🏨 **Toluca hotel** | 3 nights (Jan 17, 18, 19) | 1-2 months ahead | Booking.com, Airbnb |
+| 🏨 **Zihuatanejo hotel** | 4 nights (Jan 20, 21, 22, 23) | 1-2 months ahead - festival week! | Booking.com, Airbnb |
+| 🚗 **Car rental** | Toluca region, pick up Jan 17, drop off Jan 20 at airport | 2-4 weeks ahead | Europcar, Hertz, local agencies |
+| 🍽️ **Amaranta reservation** | Sun, Jan 18, ~1:00 PM lunch | 2-4 weeks ahead | [amarantarestaurante.com](https://www.amarantarestaurante.com/) or OpenTable |
+| 🎸 **Festival tickets** | Tequila Rock 'n Blues Fest (Jan 22-25) | ASAP - opening night sells out | [tequilabluesrock.com](https://tequilabluesrock.com/) |
+
+### Nice to Book Ahead (But Can Do Locally)
+
+| What | Details | Notes |
+|------|---------|-------|
+| 🐋 **Whale watching tour** | Jan 23 morning (flex day) | Can book locally, but popular in January |
+| 🎣 **Fishing trip** | Jan 23 morning option | Ask hotel to arrange or book on arrival |
+| ⛵ **Picante sunset cruise** | Any evening | [picantecruises.com](https://www.picantecruises.com/) or book locally |
+| 🤿 **Snorkel trip to Manzanillo** | Alternative to Las Gatas | Adventure Divers - can book on arrival |
+
+### Don't Need to Book
+
+| What | Why |
+|------|-----|
+| Baby turtle release | Free, just show up (call to confirm: +52 755 559 0441) |
+| Barra de Potosí day trip | Hire taxi day-of or take bus/collectivo |
+| Water taxi to Las Gatas | Show up at pier, boats leave frequently |
+| Most restaurants | Walk-ins fine (except Amaranta) |
+
+---
+
+## Accommodation Notes
+
+### Toluca (3 nights: Jan 17-19)
+
+| Option | Vibe | Location Tip |
+|--------|------|--------------|
+| **Hotel** | Convenient, central | Stay near Centro Histórico for walkability |
+| **Airbnb** | More space, kitchen | Good if visiting family nearby |
+| **With family?** | If partner's family is there... | Best option if available! |
+
+*Your partner likely knows the best areas - defer to her.*
+
+### Zihuatanejo (4 nights: Jan 20-23)
+
+| Area | Vibe | Best For |
+|------|------|----------|
+| **Playa La Ropa** | Beachfront, upscale | Walking out to sand, sunset views |
+| **Downtown/Centro** | Local, walkable to pier | Restaurants, atmosphere, budget-friendly |
+| **Playa Madera** | Quieter, between downtown and La Ropa | Balance of both |
+
+**Festival week note**: Book early! Jan 22-25 may have higher demand.
+
+**Recommended approach**:
+- La Ropa if you want beach access out your door
+- Downtown if you want to be in the action and walk to restaurants
+
+---
+
+## Quick Reference: Key Bookings
+
+| Booking | Date Needed | Priority |
+|---------|-------------|----------|
+| Flights (international) | Jan 17 arrive, Jan 25 depart | 🔴 **Do first** |
+| Flights (internal) | Jan 20, 5-7pm | 🔴 **Do first** |
+| Hotels (both) | Jan 17-19 Toluca, Jan 20-24 Zihua | 🔴 **Do first** |
+| Car rental | Jan 17-20 | 🟡 Soon |
+| Amaranta | Jan 18 lunch | 🟡 Soon |
+| Festival tickets | Jan 22-25 events | 🟡 Soon (opening night sells out) |
+| Activities | Jan 23 | 🟢 Can wait |
+
+---
+
 ## Sources
 
 - [Amaranta Restaurant](https://www.amarantarestaurante.com/) - Chef Pablo Salas, Toluca
