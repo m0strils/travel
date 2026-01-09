@@ -5,9 +5,23 @@
 | Detail | Information |
 |--------|-------------|
 | **Duration** | 9 Days |
-| **When** | **January** (excellent timing - dry season, whale watching, cultural events) |
+| **Dates** | **Saturday, January 17 - Sunday, January 25, 2026** |
 | **Destinations** | Toluca & Surroundings (4 days) → **Zihuatanejo** (4 days) → Departure |
 | **Local Advantage** | Partner is from Toluca - local knowledge for the best spots! |
+
+### The Schedule at a Glance
+
+| Day | Date | Where | Highlight |
+|-----|------|-------|-----------|
+| 1 | Sat, Jan 17 | Toluca | Arrive, settle in |
+| 2 | Sun, Jan 18 | Toluca | Cosmovitral, **Amaranta lunch**, Calixtlahuaca |
+| 3 | Mon, Jan 19 | Valle de Bravo | Lake, paragliding, waterfall |
+| 4 | Tue, Jan 20 | Toluca → Zihuatanejo | Volcano morning, fly to beach |
+| 5 | Wed, Jan 21 | Zihuatanejo | Explore town, Playa La Ropa sunset |
+| 6 | Thu, Jan 22 | Zihuatanejo | Snorkeling Las Gatas, **Pre-fest meet & greet** |
+| 7 | Fri, Jan 23 | Zihuatanejo | Flex day, **Opening Night @ Madana Bar** |
+| 8 | Sat, Jan 24 | Zihuatanejo | Beach morning, **Beach Party @ Coco Ixtapa** |
+| 9 | Sun, Jan 25 | Departure | Morning beach, fly home |
 
 ---
 
@@ -93,9 +107,9 @@ If you're in Mexico around January 6th, you'll experience one of the most import
 
 ---
 
-## Days 1-4: Toluca & Surroundings
+## Days 1-4: Toluca & Surroundings (Jan 17-20)
 
-### Day 1: Arrival & Settling In
+### Day 1: Saturday, January 17 - Arrival
 
 | Time | Activity | Notes |
 |------|----------|-------|
@@ -120,7 +134,7 @@ If you're in Mexico around January 6th, you'll experience one of the most import
 
 ---
 
-### Day 2: Culture Day
+### Day 2: Sunday, January 18 - Culture Day
 
 | Time | Activity | Notes |
 |------|----------|-------|
@@ -147,7 +161,7 @@ If you're in Mexico around January 6th, you'll experience one of the most import
 
 ---
 
-### Day 3: Valle de Bravo
+### Day 3: Monday, January 19 - Valle de Bravo
 
 | Time | Activity | Notes |
 |------|----------|-------|
@@ -165,7 +179,7 @@ If you're in Mexico around January 6th, you'll experience one of the most import
 
 ---
 
-### Day 4: Volcano Morning → Flight to Beach
+### Day 4: Tuesday, January 20 - Volcano → Flight to Beach
 
 | Time | Activity | Notes |
 |------|----------|-------|
@@ -183,16 +197,16 @@ If you're in Mexico around January 6th, you'll experience one of the most import
 
 ---
 
-## Days 5-8: Zihuatanejo
+## Days 5-8: Zihuatanejo (Jan 21-24)
 
-*Relaxation, authentic Mexico, fresh seafood*
+*Relaxation, authentic Mexico, fresh seafood + Tequila Rock 'n Blues Festival!*
 
-| Day | Theme |
-|-----|-------|
-| **Day 5** | Settle in, explore town, sunset beach |
-| **Day 6** | Snorkeling at Las Gatas |
-| **Day 7** | Flex day - fishing, cruise, or pure relaxation |
-| **Day 8** | Final beach day, leisurely departure prep |
+| Day | Date | Theme | Festival |
+|-----|------|-------|----------|
+| **Day 5** | Wed, Jan 21 | Settle in, explore town, sunset beach | - |
+| **Day 6** | Thu, Jan 22 | Snorkeling at Las Gatas | **Pre-fest meet & greet (evening)** |
+| **Day 7** | Fri, Jan 23 | Flex day | **Opening Night @ Madana Bar (6-11pm)** |
+| **Day 8** | Sat, Jan 24 | Final beach day | **Beach Party @ Coco Ixtapa (1:30-4:30pm)** |
 
 ---
 
@@ -309,7 +323,7 @@ Websites here are often outdated. For real-time info:
 | **Playa Madera** | Local beach, near downtown | Swimming, quieter, walkable |
 | **Playa Principal** | Fishing boats, downtown | Photos, atmosphere (not swimming) |
 
-## Day 5: Arrive & Settle In
+## Day 5: Wednesday, January 21 - Arrive & Settle In
 
 | Time | Activity |
 |------|----------|
@@ -325,7 +339,7 @@ Websites here are often outdated. For real-time info:
 
 ---
 
-## Day 6: Snorkeling Day
+## Day 6: Thursday, January 22 - Snorkeling + Pre-Fest
 
 | Time | Activity |
 |------|----------|
@@ -336,7 +350,8 @@ Websites here are often outdated. For real-time info:
 | 2:00 PM | More beach time, or explore the cove |
 | 4:00 PM | Water taxi back |
 | 5:00 PM | Stroll Paseo del Pescador (fisherman's walkway) |
-| 7:00 PM | Dinner in town |
+| 6:00 PM | Early dinner |
+| 8:00 PM | 🎸 **Pre-Fest Meet & Greet** - meet performers, live rehearsal (free for ticket holders) |
 
 **Where to Eat**:
 - **Kau-Kan** - upscale seafood, beachfront, stingray in black butter is the signature
@@ -346,7 +361,7 @@ Websites here are often outdated. For real-time info:
 
 ---
 
-## Day 7: Flex Day
+## Day 7: Friday, January 23 - Flex Day + Opening Night
 
 Pick your adventure (or don't):
 
@@ -384,32 +399,34 @@ Pick your adventure (or don't):
 
 | Time | If Day Trip | If Relaxation |
 |------|-------------|---------------|
-| Morning | Barra de Potosí or fishing | Sleep in, slow breakfast |
+| Morning | Barra de Potosí, fishing, or whale watching | Sleep in, slow breakfast |
 | Afternoon | Return, beach time | Playa La Ropa, pool, read |
-| Evening | Turtle release OR sunset drinks | Sunset drinks, nice dinner |
+| 6:00 PM | 🎸 **Opening Night @ Madana Bar** (6-11pm) | Same - don't miss this! |
 
-**Where to Eat**:
+**Where to Eat** (before the show):
 - **La Gaviota** (end of La Ropa beach) - decades of fresh seafood, stunning bay views
 - **Margaritas** (La Madera) - excellent breakfast spot, chilaquiles, huevos rancheros
 
 ---
 
-## Day 8: Final Beach Day
+## Day 8: Saturday, January 24 - Beach Day + Beach Party
 
 | Time | Activity |
 |------|----------|
 | Morning | Sleep in, leisurely breakfast |
-| 11:00 AM | Beach time - La Ropa or return to a favorite spot |
-| 1:00 PM | Splurge lunch - this is your big seafood meal |
-| Afternoon | Pool, massage, one last swim |
-| 6:00 PM | Pack, light early dinner |
-| | Prepare for departure tomorrow |
+| 11:00 AM | Beach time at La Ropa |
+| 1:30 PM | 🎸 **Beach Party @ Coco Ixtapa Beach Klub, Playa Linda** (1:30-4:30pm) |
+| 5:00 PM | Return to Zihuatanejo, sunset drinks |
+| 7:00 PM | Farewell dinner - splurge meal |
+| Evening | Pack, prepare for departure |
 
 **Splurge Meal**: Order *pescado a la talla* at Tritón or La Gaviota - it's the regional specialty.
 
+**Getting to Coco Ixtapa**: Taxi from Zihuatanejo to Playa Linda (~20 min, ~$15 USD)
+
 ---
 
-## Day 9: Departure
+## Day 9: Sunday, January 25 - Departure
 
 | Time | Activity |
 |------|----------|
@@ -417,6 +434,8 @@ Pick your adventure (or don't):
 | | Check out |
 | | Taxi to ZIH airport (~20 min) |
 | | Depart Zihuatanejo |
+
+*Festival closing events happening today - if your flight is late, catch some before you go!*
 
 ---
 
