@@ -47,7 +47,18 @@
 
 **Take it slow** - altitude adjustment is real. Hydrate, don't overdo it.
 
-**Dinner**: Casual spot near Portales for *tacos de chorizo verde* (Toluca's famous green chorizo)
+### Toluca Food You Can't Miss
+
+| Dish | What It Is | Where to Try |
+|------|------------|--------------|
+| **Chorizo verde** | Green chorizo made with cilantro, green chiles, pumpkin seeds - Toluca's signature | Mercado 16 de Septiembre, any taquería |
+| **Mosquitos** | Tiny tacos with small portions of meat (called this because of their size, not ingredients!) | Street vendors, market stalls |
+| **Tacos de plaza** | Market-style tacos with various fillings | Mercado 16 de Septiembre |
+| **Obispo** | Sausage made with pork offal - adventurous but traditional | Specialty charcutería stands |
+| **Mixiotes** | Meat wrapped and cooked in maguey leaves | Traditional restaurants |
+| **Tortas de chorizo** | Sandwiches with the local green chorizo, often with guacamole | Mercado or casual spots |
+
+**Market Tip**: Mercado 16 de Septiembre is best for breakfast and lunch - the food stalls wind down by afternoon. Go hungry.
 
 ---
 
@@ -160,6 +171,77 @@ This is a fishing town - the seafood is exceptional. Here's where to eat:
 | **Splurge** | Tritón at sunset with wine |
 | **Late Night** | Bandido's - molcajete fajitas, live music, dancing |
 
+### Where Locals Eat (Budget-Friendly)
+
+Skip the tourist prices - these are the spots locals know:
+
+| Restaurant | Location | What to Get | Price |
+|------------|----------|-------------|-------|
+| **Los Braseros** | Ejido 14, Centro | Fish tacos (secret batter recipe), tacos al pastor | $ |
+| **Mariscos Chuy** | Across harbor footbridge | Owner's daily catch, fresh and simple | $ |
+| **Marisquería El Colombiano** | Corner of Galeana & González | Fresh oysters, ceviche | $ |
+| **Marisquería Don Bieto** | Dario Galeana (Circuito Principal 19) | Shrimp, fish - excellent and cheap | $ |
+| **Fonda Doña Licha** | Near Mercado Municipal | Chicken enchiladas with green sauce, seafood | $ |
+| **Central Market** | Av. Benito Juárez, 5 blocks inland | Best for breakfast/lunch before it winds down | $ |
+
+---
+
+## Hidden Gems & Local Tips
+
+### Baby Turtle Release (Aug-Feb)
+
+One of the most magical experiences in Zihuatanejo - releasing baby sea turtles at sunset.
+
+| Detail | Info |
+|--------|------|
+| **Where** | Campamento Tortuguero Ayotlcalli, Playa Blanca |
+| **When** | Aug-Feb, releases at sunset (usually 5-6pm) |
+| **Cost** | Free (donations appreciated) |
+| **What happens** | Short talk about conservation, then you release hatchlings into the ocean |
+| **Why sunset?** | Birds (their main predators) can't see them at night |
+| **Contact** | +52 755 559 0441 - call ahead to confirm timing |
+| **Getting there** | Short taxi ride (~15 min), near the airport |
+
+**Tip**: Check Facebook group "Fun Things to do in Zihuatanejo/Ixtapa" - releases are often announced same-day.
+
+### Barra de Potosí Day Trip
+
+A sleepy fishing village 45 min south - like Zihuatanejo was 60 years ago.
+
+| What | Details |
+|------|---------|
+| **The Lagoon** | 4-mile saltwater lagoon, 800 hectares of mangrove - major birdwatching site |
+| **Birds** | 200+ species including roseate spoonbills, frigatebirds, herons, pelicans |
+| **Boat Tours** | Local guide Avi Banuelos does excellent small-boat tours - birding, mangrove walk, fishing net demo |
+| **Lunch** | Eat at the *enramadas* (palapa restaurants) on the lagoon - ultra-fresh, ultra-cheap seafood |
+| **Getting there** | Taxi (~$20 USD) or bus from downtown + collectivo pickup truck (~$1.70 total, adventure included) |
+
+**Best for**: Bird lovers, photographers, anyone wanting to see untouched Mexico.
+
+### Sunset Viewpoints
+
+| Spot | Vibe |
+|------|------|
+| **Playa La Ropa** | Best sunsets in December when sun sets directly over the bay |
+| **Cerro del Vigía restaurants** | Hilltop bars with panoramic bay views: Amuleto, Solana, La Escollera, El Suspiro |
+| **Paseo del Pescador** | Downtown waterfront - casual, local atmosphere |
+
+### Snorkeling Secret
+
+At Playa Las Gatas, ask your guide to show you the **sunken bronze Christ statue** underwater - most tourists miss it.
+
+### Local Lingo
+
+If someone calls you **"zanca"** (or "zancas" plural) - it means friend/brother, like "dude." It's a sign of respect and means you've been accepted.
+
+### Staying Connected
+
+Websites here are often outdated. For real-time info:
+- **Facebook**: "Zihuatanejo Let's Chat" and "Fun Things to do in Zihuatanejo/Ixtapa"
+- **Best approach**: Ask people on the beach - locals know more than Google
+
+---
+
 ## The Beaches
 
 | Beach | Vibe | Best For |
@@ -208,26 +290,39 @@ This is a fishing town - the seafood is exceptional. Here's where to eat:
 
 ## Day 7: Flex Day
 
-**Option A: Fishing Trip** (half-day, morning)
+Pick your adventure (or don't):
+
+**Option A: Barra de Potosí Day Trip** ⭐ *Hidden gem*
+- 45 min south to a sleepy fishing village
+- Lagoon boat tour with local guide (birding, mangroves)
+- Lunch at beachfront *enramada* - cheapest, freshest seafood you'll find
+- Back by afternoon, turtle release at sunset (if Aug-Feb)
+
+**Option B: Fishing Trip** (half-day, morning)
 - Sailfish, dorado, marlin depending on season
 - Captain makes ceviche from your catch
 - Back by noon, afternoon at the beach
 
-**Option B: Sunset Catamaran Cruise**
+**Option C: Sunset Catamaran Cruise**
 - Picante Cruises is well-reviewed
 - Sails the bay, open bar, dinner included
 - Whale watching Dec-March
 
-**Option C: Do Nothing**
+**Option D: Baby Turtle Release** (Aug-Feb only)
+- Afternoon at beach, then taxi to Playa Blanca for 5-6pm release
+- Free, magical, unforgettable
+- Call ahead: +52 755 559 0441
+
+**Option E: Do Nothing**
 - Sleep late
 - Beach all day
 - That's the whole plan
 
-| Time | If Active Morning | If Relaxation Day |
-|------|-------------------|-------------------|
-| Morning | Fishing trip or town exploring | Sleep in, slow breakfast |
-| Afternoon | Playa Madera (quieter, local) | Playa La Ropa, pool, read |
-| Evening | Sunset drinks, nice dinner | Sunset drinks, nice dinner |
+| Time | If Day Trip | If Relaxation |
+|------|-------------|---------------|
+| Morning | Barra de Potosí or fishing | Sleep in, slow breakfast |
+| Afternoon | Return, beach time | Playa La Ropa, pool, read |
+| Evening | Turtle release OR sunset drinks | Sunset drinks, nice dinner |
 
 **Where to Eat**:
 - **La Gaviota** (end of La Ropa beach) - decades of fresh seafood, stunning bay views
