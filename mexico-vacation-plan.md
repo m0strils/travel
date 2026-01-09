@@ -31,7 +31,7 @@
 |--------|-------------|-----------------|----------|
 | **Vibe** | Romantic, peaceful | Cosmopolitan, diverse | Bohemian, surfer |
 | **Size** | Small fishing town | Large city (220k+) | Small town (~3k) |
-| **From Toluca** | ~5-6 hrs drive / direct flight | ~7-9 hrs drive / flight via GDL | 45 min from PVR |
+| **Flight from Toluca** | ~1 hr direct (TLC→ZIH) | ~1.5 hrs (may connect via GDL) | 45 min from PVR airport |
 | **Best For** | Fishing, relaxation, authentic Mexico | Variety, nightlife, LGBTQ+ friendly | Surfing, yoga, laid-back |
 | **Beaches** | 4 beautiful bays | 42km coastline, many options | One main + nearby coves |
 
@@ -77,19 +77,20 @@
 
 **Option**: Stay overnight in Valle de Bravo for a more relaxed pace
 
-#### Day 4: Volcano & Ruins + Beach Transit
+#### Day 4: Volcano & Ruins + Flight to Beach
 | Time | Activity | Notes |
 |------|----------|-------|
 | 5:00 AM | Depart for Nevado de Toluca | Early start essential |
 | 7:00 AM | Hike to crater lagoons | Sun Lake (Laguna del Sol) & Moon Lake (Laguna de la Luna) |
 | 11:00 AM | Descend, light lunch | Pack snacks for the hike |
 | 1:00 PM | Calixtlahuaca archaeological site | Aztec-era circular pyramid |
-| 3:00 PM | Return to Toluca, freshen up | |
-| 5:00 PM | **Travel to beach**: | |
-| | *Option A*: Flight TLC→ZIH | ~1 hr, check Volaris/VivaAerobus |
-| | *Option B*: Drive to Zihuatanejo | ~5-6 hrs via Autopista del Sol |
+| 3:00 PM | Return to Toluca, freshen up | Drop off rental car |
+| 5:00 PM | Flight to beach | TLC→ZIH (~1 hr) or MEX→ZIH |
+| 7:00 PM | Arrive Zihuatanejo | Taxi to hotel, light dinner |
 
 **Hiking Note**: Nevado de Toluca is at 15,000+ ft - acclimate in Toluca first, bring warm layers, go slow
+
+**Flight Tip**: Book an evening flight (5-7pm) from Toluca (TLC) or Mexico City (MEX) to give buffer time after the hike
 
 ---
 
@@ -194,8 +195,8 @@
 | Segment | Recommendation |
 |---------|----------------|
 | Toluca region | **Rent a car** - essential for Nevado de Toluca, Valle de Bravo, flexibility |
-| Toluca → Beach | Fly (faster) or drive (scenic, ~5-6 hrs to ZIH) |
-| At beach | Taxis/Uber sufficient; car optional for exploration |
+| Toluca → Beach | **Fly** - 1 hr flight vs. 5-6 hr drive; return rental car at TLC or MEX |
+| At beach | Taxis sufficient in Zihuatanejo; no car needed |
 
 ### Packing Checklist
 
@@ -241,9 +242,8 @@ Before finalizing, consider:
 
 1. **Beach choice**: Zihuatanejo (peaceful, authentic) vs. Puerto Vallarta (vibrant, varied)?
 2. **Valle de Bravo**: Day trip or overnight stay?
-3. **Toluca→Beach transit**: Fly (convenient) or drive (scenic)?
-4. **Activity level**: Pack the itinerary or leave room for spontaneity?
-5. **Dates**: Specific timing affects prices, weather, and crowds
+3. **Activity level**: Pack the itinerary or leave room for spontaneity?
+4. **Dates**: Specific timing affects prices, weather, and crowds
 
 ---
 
