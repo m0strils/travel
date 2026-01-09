@@ -31,7 +31,6 @@
 
 | Event | When | Where | Details |
 |-------|------|-------|---------|
-| **Día de Reyes** (Three Kings Day) | January 6 | Everywhere | Major holiday - Rosca de Reyes, gifts, family gatherings |
 | **Whale Watching Season** | Dec 15 - Mar 20 | Zihuatanejo coast | Humpback whales - prime viewing |
 | **Baby Turtle Releases** | Aug - Feb | Playa Blanca | Still in season! |
 | **Tequila Rock 'n Blues Fest** | Jan 22-25, 2026 | Zihuatanejo/Ixtapa | Blues/rock festival - see details below |
@@ -61,18 +60,6 @@ If your dates overlap, this is a fun, casual beach music festival:
 - Lorena Cabrera Bernal - Janis Joplin/Heart tribute
 
 **Tickets**: [tequilabluesrock.com](https://tequilabluesrock.com/) - Opening night often sells out, book early
-
-### Día de Reyes (January 6) - Don't Miss This
-
-If you're in Mexico around January 6th, you'll experience one of the most important holidays:
-
-| Tradition | What It Is |
-|-----------|------------|
-| **Rosca de Reyes** | Oval sweet bread with hidden baby Jesus figurines - whoever finds one hosts a party on Feb 2nd (tamales!) |
-| **Gift giving** | Kids receive gifts from Los Reyes Magos (Three Wise Men) - bigger than Christmas for many families |
-| **Family gatherings** | Hot chocolate, atole, family time |
-
-**With a local partner**: She'll know where to get the best Rosca and how her family celebrates. This is special - lean into it.
 
 ### January Weather
 
