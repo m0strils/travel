@@ -15,7 +15,7 @@
 |-----|------|-------|-----------|
 | 1 | Sat, Jan 17 | Toluca | Arrive, settle in |
 | 2 | Sun, Jan 18 | Toluca | Cosmovitral, **Amaranta lunch**, Calixtlahuaca |
-| 3 | Mon, Jan 19 | Valle de Bravo | Lake, paragliding, waterfall |
+| 3 | Mon, Jan 19 | **Mexico City** | Day trip - **Contramar**, Roma/Condesa, tacos |
 | 4 | Tue, Jan 20 | Toluca → Zihuatanejo | Volcano morning, fly to beach |
 | 5 | Wed, Jan 21 | Zihuatanejo | Explore town, Playa La Ropa sunset |
 | 6 | Thu, Jan 22 | Zihuatanejo | Snorkeling Las Gatas, **Pre-fest meet & greet** |
@@ -31,7 +31,6 @@
 
 | Event | When | Where | Details |
 |-------|------|-------|---------|
-| **Día de Reyes** (Three Kings Day) | January 6 | Everywhere | Major holiday - Rosca de Reyes, gifts, family gatherings |
 | **Whale Watching Season** | Dec 15 - Mar 20 | Zihuatanejo coast | Humpback whales - prime viewing |
 | **Baby Turtle Releases** | Aug - Feb | Playa Blanca | Still in season! |
 | **Tequila Rock 'n Blues Fest** | Jan 22-25, 2026 | Zihuatanejo/Ixtapa | Blues/rock festival - see details below |
@@ -62,18 +61,6 @@ If your dates overlap, this is a fun, casual beach music festival:
 
 **Tickets**: [tequilabluesrock.com](https://tequilabluesrock.com/) - Opening night often sells out, book early
 
-### Día de Reyes (January 6) - Don't Miss This
-
-If you're in Mexico around January 6th, you'll experience one of the most important holidays:
-
-| Tradition | What It Is |
-|-----------|------------|
-| **Rosca de Reyes** | Oval sweet bread with hidden baby Jesus figurines - whoever finds one hosts a party on Feb 2nd (tamales!) |
-| **Gift giving** | Kids receive gifts from Los Reyes Magos (Three Wise Men) - bigger than Christmas for many families |
-| **Family gatherings** | Hot chocolate, atole, family time |
-
-**With a local partner**: She'll know where to get the best Rosca and how her family celebrates. This is special - lean into it.
-
 ### January Weather
 
 | Location | Conditions |
@@ -95,7 +82,7 @@ If you're in Mexico around January 6th, you'll experience one of the most import
 - Cosmovitral Botanical Garden (stunning stained glass)
 - Nevado de Toluca volcano (Sun & Moon crater lagoons)
 - Calixtlahuaca archaeological ruins
-- Valle de Bravo (lakeside town, adventure activities)
+- Easy day trip to Mexico City (new train connection!)
 
 ### Zihuatanejo
 
@@ -161,21 +148,57 @@ If you're in Mexico around January 6th, you'll experience one of the most import
 
 ---
 
-### Day 3: Monday, January 19 - Valle de Bravo
+### Day 3: Monday, January 19 - Mexico City Day Trip
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| 9:00 AM | Depart for Valle de Bravo | ~2 hr scenic drive through pine forests |
-| 11:00 AM | Arrive, explore town | Cobblestone streets, artisan shops, coffee |
-| 1:00 PM | Lakeside lunch | Fresh trout is the local specialty |
+| 8:30 AM | Depart for Mexico City | Train or bus from Toluca (~1-1.5 hrs) |
+| 10:00 AM | Arrive CDMX, explore Roma/Condesa | Coffee, walk tree-lined streets, architecture |
+| 1:00 PM | **Lunch at Contramar** | Reserve ahead - see details below |
 | 3:00 PM | **Pick one activity**: | Don't try to do everything |
-| | - Paragliding | Valle is Mexico's paragliding capital |
-| | - Boat tour on Lake Avándaro | Relaxing, scenic |
-| | - Just walk the lakefront | Equally valid choice |
-| 5:00 PM | Optional: Velo de Novia waterfall | 20-min hike if you have energy |
-| 7:00 PM | Return to Toluca | Dinner en route or back in town |
+| | - Coyoacán neighborhood | Colonial charm, Frida Kahlo Museum area |
+| | - Chapultepec Castle | Views, history, beautiful grounds |
+| | - Just wander Roma/Condesa | Window shop, people watch, taco hunt |
+| 5:00 PM | Tacos & street food | Hit a taquería before heading back |
+| 7:00 PM | Return to Toluca | Train/bus back, easy evening |
 
-**Alternative**: Stay overnight in Valle de Bravo. Adds cost but removes time pressure entirely.
+#### Getting to Mexico City
+
+| Option | Duration | Cost | Notes |
+|--------|----------|------|-------|
+| **Tren Interurbano México-Toluca** | ~40 min | ~$2-3 USD | New train! Opens late Jan 2026 - check if operational |
+| **Bus (Flecha Roja/ETN)** | 1-1.5 hrs | ~$8-12 USD | Frequent departures from Terminal Toluca |
+| **Drive** | 1-1.5 hrs | Variable | Traffic can be brutal - bus/train recommended |
+
+**Note**: The new train may open right around your trip dates. If not yet running, take the bus - it's comfortable and frequent.
+
+#### Contramar Restaurant
+
+| Detail | Info |
+|--------|------|
+| **What** | Iconic Mexico City seafood institution since 1998 |
+| **Known For** | Tuna tostadas, *pescado a la talla* (red & green chili halves) |
+| **Vibe** | Casual elegance, always buzzing, power lunch crowd |
+| **Price** | ~$30-50 USD per person |
+| **Hours** | Daily 1pm-6:30pm (lunch only) |
+| **Address** | Calle de Durango 200, Roma Norte |
+| **Reserve** | **Essential** - call +52 55 5514 9217 or OpenTable |
+
+**Alternative**: If Contramar is booked, try **Mariscos El Pollo** (casual, delicious, less famous).
+
+#### Mexico City Street Food & Tacos
+
+Don't leave without hitting at least one of these:
+
+| Spot | Location | Known For | Vibe |
+|------|----------|-----------|------|
+| **Tacos El Califa de León** | Multiple locations | Al pastor, bistec - Michelin Bib Gourmand | Quick, no-frills, legendary |
+| **El Huequito** | Centro/Condesa | Al pastor pioneers since 1959 | Institution, cash only |
+| **Taquería Orinoco** | Roma Norte | Sonoran-style carne asada, flour tortillas | Northern Mexico style |
+| **Taquería Los Cocuyos** | Centro Histórico | Late night tacos de cabeza, suadero | Adventurous, 24-hr |
+| **Mercado Roma** | Roma Norte | Food hall with many vendors | Good for variety, upscale market |
+
+**Pro tip**: Ask your partner - Chilangos (Mexico City natives) are particular about their tacos. She'll know the real spots.
 
 ---
 
@@ -255,6 +278,48 @@ Skip the tourist prices - these are the spots locals know:
 | **Marisquería Don Bieto** | Dario Galeana (Circuito Principal 19) | Shrimp, fish - excellent and cheap | $ |
 | **Fonda Doña Licha** | Near Mercado Municipal | Chicken enchiladas with green sauce, seafood | $ |
 | **Central Market** | Av. Benito Juárez, 5 blocks inland | Best for breakfast/lunch before it winds down | $ |
+
+---
+
+## Beyond Seafood: Meat, Tacos & Traditional Dishes
+
+Not everything has to be fish! Zihuatanejo has excellent options for carnivores:
+
+### Tacos & Grilled Meats
+
+| Restaurant | Location | Known For | Vibe |
+|------------|----------|-----------|------|
+| **Asadero Julios** | Downtown | Carnitas - slow-cooked pork, fall-apart tender | Local favorite, no frills |
+| **Papa Locas** | Centro | Arrachera (skirt steak), loaded baked potatoes | Casual, filling, cheap |
+| **Los Braseros** | Ejido 14 | Tacos al pastor (spit-roasted pork), carne asada | Cash only, locals-only vibe |
+| **Tacos Lupe** | Near market | Various meat tacos, late night option | Street-side, authentic |
+
+### Traditional Mexican Dishes
+
+| Dish | What It Is | Where/When |
+|------|------------|------------|
+| **Pozole** | Hearty hominy soup with pork/chicken, topped with cabbage, radish, oregano | Thursday tradition - many restaurants serve it |
+| **Cochinita pibil** | Yucatecan slow-roasted pork in achiote | Los de Cochinita (near market), Sundays especially |
+| **Barbacoa** | Slow-cooked beef, traditionally pit-roasted | Margaritas (La Madera) - weekends |
+| **Birria** | Spiced goat/beef stew, consomé on the side | Ask locals - varies by day |
+| **Tamales** | Corn masa with fillings, steamed in corn husks | Morning vendors, market |
+
+### Thursday Pozole Tradition
+
+In Guerrero state (where Zihuatanejo is located), **Thursday is pozole day**. Many restaurants and families make this hearty soup specifically on Thursdays. It's usually served with:
+- Shredded cabbage, radish, onion
+- Dried oregano, lime, chile flakes
+- Tostadas on the side
+
+**Where to get it**: Ask your hotel or just follow the locals on Thursday afternoon. Many beachfront restaurants will have a special pozole menu.
+
+### Breakfast Beyond the Beach
+
+| Spot | What to Get |
+|------|-------------|
+| **Margaritas** (La Madera) | Chilaquiles (crispy tortillas in salsa), huevos rancheros, fresh juice |
+| **Central Market** | Tamales in the morning, fresh fruit, coffee |
+| **Any fonda** | Huevos a la mexicana, molletes (open-faced bean/cheese baguette) |
 
 ---
 
@@ -507,6 +572,7 @@ Pick your adventure (or don't):
 | 🏨 **Zihuatanejo hotel** | 4 nights (Jan 20, 21, 22, 23) | 1-2 months ahead - festival week! | Booking.com, Airbnb |
 | 🚗 **Car rental** | Toluca region, pick up Jan 17, drop off Jan 20 at airport | 2-4 weeks ahead | Europcar, Hertz, local agencies |
 | 🍽️ **Amaranta reservation** | Sun, Jan 18, ~1:00 PM lunch | 2-4 weeks ahead | [amarantarestaurante.com](https://www.amarantarestaurante.com/) or OpenTable |
+| 🍽️ **Contramar reservation** | Mon, Jan 19, ~1:00 PM lunch | 2-4 weeks ahead | Call +52 55 5514 9217 or OpenTable |
 | 🎸 **Festival tickets** | Tequila Rock 'n Blues Fest (Jan 22-25) | ASAP - opening night sells out | [tequilabluesrock.com](https://tequilabluesrock.com/) |
 
 ### Nice to Book Ahead (But Can Do Locally)
@@ -566,6 +632,7 @@ Pick your adventure (or don't):
 | Hotels (both) | Jan 17-19 Toluca, Jan 20-24 Zihua | 🔴 **Do first** |
 | Car rental | Jan 17-20 | 🟡 Soon |
 | Amaranta | Jan 18 lunch | 🟡 Soon |
+| Contramar | Jan 19 lunch (CDMX day trip) | 🟡 Soon |
 | Festival tickets | Jan 22-25 events | 🟡 Soon (opening night sells out) |
 | Activities | Jan 23 | 🟢 Can wait |
 
