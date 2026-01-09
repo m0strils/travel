@@ -20,7 +20,33 @@
 | **Día de Reyes** (Three Kings Day) | January 6 | Everywhere | Major holiday - Rosca de Reyes, gifts, family gatherings |
 | **Whale Watching Season** | Dec 15 - Mar 20 | Zihuatanejo coast | Humpback whales - prime viewing |
 | **Baby Turtle Releases** | Aug - Feb | Playa Blanca | Still in season! |
-| **Tequila Rock 'n Blues Fest** | Mid-January | Zihuatanejo/Ixtapa | If dates align - check schedule |
+| **Tequila Rock 'n Blues Fest** | Jan 22-25, 2026 | Zihuatanejo/Ixtapa | Blues/rock festival - see details below |
+
+### Tequila Rock 'n Blues Festival (Jan 22-25, 2026)
+
+If your dates overlap, this is a fun, casual beach music festival:
+
+| Detail | Info |
+|--------|------|
+| **Dates** | January 22-25, 2026 |
+| **Vibe** | Relaxed fiesta-style, intimate venues, world-class performers |
+| **Venues** | Madana Bar (Zihuatanejo), Coco Ixtapa Beach Klub (Playa Linda) |
+
+**Schedule**:
+- **Jan 22** (Pre-fest): Meet & greet with performers, live rehearsal (free for ticket holders)
+- **Jan 23** (Opening Night): Madana Bar, Zihuatanejo, 6-11pm
+- **Jan 24** (Afternoon): Oceanside beach party, Coco Ixtapa, 1:30-4:30pm
+- **Jan 25**: Closing events
+
+**2026 Lineup**:
+- Joanna Connor (USA) - blues rock guitar legend
+- Evelyn Rubio (USA/Mexico) - soulful blues
+- Bex Marshall (UK) - first European headliner
+- Tangerine - Led Zeppelin tribute (Mexico City)
+- Dirty Deeds - AC/DC tribute (Mexico City)
+- Lorena Cabrera Bernal - Janis Joplin/Heart tribute
+
+**Tickets**: [tequilabluesrock.com](https://tequilabluesrock.com/) - Opening night often sells out, book early
 
 ### Día de Reyes (January 6) - Don't Miss This
 
