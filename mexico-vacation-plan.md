@@ -39,7 +39,7 @@ Mexico City (7,350 ft) → Toluca (8,750 ft) → Oaxaca City (5,085 ft) → San 
 |-----|------|-------|-----------|
 | 1 | Sat, Feb 21 | Mexico City → Toluca | Arrive, settle in |
 | 2 | Sun, Feb 22 | Toluca | Cosmovitral, **Amaranta lunch**, acclimate |
-| 3 | Mon, Feb 23 | Toluca | Nevado de Toluca volcano, Calixtlahuaca |
+| 3 | Mon, Feb 23 | Toluca | Teotenango + Calixtlahuaca ruins **OR** Mexico City day trip |
 | 4 | Tue, Feb 24 | Toluca → Oaxaca | Fly to Oaxaca City |
 | 5 | Wed, Feb 25 | Oaxaca City | Explore centro, Food & Wine Festival begins |
 | 6 | Thu, Feb 26 | Oaxaca City | **La Capilla Zaachila** (market day!), mezcal tasting |
@@ -83,16 +83,37 @@ Skip beach → Fly home from Oaxaca on Day 10. Drive back from San José del Pac
 | 4:00 PM | Walk Portales, Centro Histórico | Coffee, people watching |
 | Evening | Relaxed dinner | Let your partner choose a local spot |
 
-### Day 3: Monday, February 23 - Volcano Day
+### Day 3: Monday, February 23 - Ruins or Mexico City
+
+**Note**: Nevado de Toluca is currently **closed indefinitely** (since Aug 2025) due to safety concerns. Check for updates closer to your trip.
+
+**Option A: Archaeological Sites (Stay Local)**
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| 5:30 AM | Depart for Nevado de Toluca | Early start for best conditions |
-| 7:30 AM | Hike to crater lagoons | Sun Lake & Moon Lake |
-| 11:00 AM | Descend, snacks | Pack breakfast - no facilities up there |
-| 1:00 PM | Return to Toluca | Rest, shower |
-| 3:00 PM | Optional: Calixtlahuaca ruins | Aztec circular pyramid, 30 min from centro |
+| 9:00 AM | **Teotenango ruins** | 35 min from Toluca, well-preserved pyramids, ~3.5 hrs to explore |
+| 1:00 PM | Lunch in Tenango del Valle | Small town near ruins |
+| 3:00 PM | **Calixtlahuaca ruins** | 15 min from Toluca centro, Aztec circular pyramid |
+| Evening | Relaxed dinner | Pack for Oaxaca |
+
+**Option B: Mexico City Day Trip**
+
+| Time | Activity | Notes |
+|------|----------|-------|
+| 7:00 AM | Drive/bus to CDMX | ~1 hr from Toluca |
+| 9:00 AM | **Teotihuacán** | Pyramids of Sun & Moon, UNESCO site |
+| 2:00 PM | Late lunch in CDMX | Roma/Condesa neighborhoods |
+| 5:00 PM | Return to Toluca | Or explore Coyoacán, museums |
 | Evening | Pack for Oaxaca | Early flight tomorrow |
+
+**Option C: If Nevado Reopens**
+
+| Time | Activity | Notes |
+|------|----------|-------|
+| 5:30 AM | Depart for Nevado de Toluca | Check status first! |
+| 7:30 AM | Hike to crater lagoons | Sun Lake & Moon Lake |
+| 11:00 AM | Descend | Pack breakfast - no facilities |
+| 3:00 PM | Calixtlahuaca ruins | Optional add-on |
 
 ### Toluca Food
 
