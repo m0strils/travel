@@ -143,9 +143,9 @@ Even in the off-season, there are some alternatives:
 | **Local foraging walks** | Ask at La Cumbre or Tío's - some guides know where to find off-season varieties | Feb/March (limited) |
 | **Coyote Aventuras** | 4-day guided retreats with ceremonies - only available June-July | Summer only |
 
-### How to Find a Guide (With Mexican National)
+### How to Find a Guide (Spanish Helps)
 
-Your partner can help access guides that don't advertise to tourists:
+Speaking Spanish opens doors to guides that don't advertise to tourists:
 1. **Ask at Cabañas Pacífico directly** - Staff know everyone
 2. **Talk to locals in town** - Small community, word of mouth
 3. **Check at the small tiendas** - Shop owners often know guides

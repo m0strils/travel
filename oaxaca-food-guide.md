@@ -116,20 +116,20 @@ Rick Bayless filmed an episode of "Mexico: One Plate at a Time" at her school ex
 
 ---
 
-## Food Tours (With Mexican National)
+## Food Tours & Spanish-Language Options
 
-### Your Advantage
+### Save Money with Spanish Tours
 
-Since you're traveling with a Mexican national, you have access to more authentic experiences:
+If your group speaks Spanish, you can access better options:
 - **Skip the English-speaking tour premium** - save 30-50% on tours
 - **Access local-only experiences** - some guides prefer Spanish-only groups
 - **Better prices** - no tourist markup when booking directly
-- **Deeper cultural context** - your partner can translate nuance and ask better questions
+- **Deeper cultural context** - catch nuances that get lost in translation
 
 ### Recommended Approach
 
-1. **Skip formal tours** - Have your partner ask locals directly for recommendations
-2. **Do a cooking class** - Seasons of My Heart, Me Encanta Oaxaca, or Reyna's are worth it even with a local companion
+1. **Ask locals directly** - Skip formal tours and get recommendations in person
+2. **Do a cooking class** - Seasons of My Heart, Me Encanta Oaxaca, or Reyna's are worth it regardless
 3. **Go to Zaachila on Thursday** - La Capilla + market, no tour needed
 4. **Tlacolula Sunday Market** - Go on your own, it's easy and more authentic without a guide
 5. **Caldo de Piedra day trip** - Easy drive, no tour needed, just show up

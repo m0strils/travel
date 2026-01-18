@@ -20,7 +20,7 @@
 | **Duration** | 12-14 Days |
 | **Dates** | **After February 19, 2026** (suggested: Sat, Feb 21 - Thu, March 5) |
 | **Destinations** | Mexico City → Toluca (acclimate) → Oaxaca City → San José del Pacífico → Beach (Mazunte/Zipolite) |
-| **Local Advantage** | Partner is from Toluca + traveling with Mexican national |
+| **Local Advantage** | Partner is from Toluca - Spanish-fluent group can access local tours & save money |
 
 ### The Route
 
