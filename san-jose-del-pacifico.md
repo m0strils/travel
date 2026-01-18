@@ -163,51 +163,47 @@ Speaking Spanish opens doors to guides that don't advertise to tourists:
 
 ---
 
-## Safety Information for Bipolar Disorder
+## A Note on Psilocybin & Bipolar Disorder
 
-**This section is critical if traveling with someone who has bipolar disorder.**
+If someone in your group manages bipolar disorder, here's what current research says to help make an informed decision.
 
-### What Medical Research Shows
+### What the Research Shows
 
 | Finding | Details |
 |---------|---------|
-| **Risk level** | ~1 in 3 people with bipolar disorder who use psilocybin report adverse effects |
-| **Types of adverse effects** | New or worsening manic symptoms, sleep difficulties, anxiety |
-| **Clinical trials** | Have historically EXCLUDED people with bipolar disorder |
-| **Recent research** | Small studies on Bipolar II show promise, but data is limited |
+| **Mixed results** | Some people report positive experiences, others report challenges |
+| **Bipolar II** | Recent small studies show promise, though data is still limited |
+| **Clinical trials** | Have historically excluded people with bipolar disorder, so less is known |
+| **Individual variation** | Responses vary significantly person to person |
 
-### Absolute Contraindications
+### Important Medication Interactions
 
-| NEVER combine with | Why |
-|--------------------|-----|
-| **LITHIUM** | **EXTREMELY DANGEROUS** - risk of seizures |
-| **Antipsychotics** | Blocks effects, unpredictable interactions |
-| **SSRIs/MAOIs** | Risk of serotonin syndrome |
+| Medication | Interaction |
+|------------|-------------|
+| **Lithium** | Significant safety concern - medical guidance essential |
+| **Antipsychotics** | Can block effects or cause unpredictable interactions |
+| **SSRIs/MAOIs** | Potential for serotonin syndrome |
 
-### If Your Friend Is Considering This
+### Things to Consider
 
-1. **Consult their psychiatrist first** - this is non-negotiable
-2. **Bipolar I vs Bipolar II matters** - Bipolar I carries higher risk
-3. **Medication status** - any medication changes require medical supervision
-4. **Professional supervision strongly recommended** - not a casual decision
-5. **Have a plan** - know how to contact mental health provider if symptoms worsen
+- **Talk to a psychiatrist first** - they know your specific situation
+- **Bipolar I vs II** - different risk profiles
+- **Current stability** - timing matters
+- **Support system** - having trusted people present
+- **Integration plan** - how to process the experience afterward
 
-### Harm Reduction if Proceeding
+### Harm Reduction Approach
 
-- Start with very low dose if at all
-- Have a completely sober trip sitter present
-- Monitor carefully for emerging manic symptoms (reduced sleep, increased energy, impulsivity)
-- Track mood changes in days/weeks following
-- Do NOT proceed if currently in unstable mood state
+If choosing to proceed after medical consultation:
+- Start with a lower dose
+- Have a trusted, sober person present
+- Be in a calm, safe environment
+- Have a plan for reaching support if needed
+- Allow time afterward to rest and integrate
 
-### The Bottom Line
+### Alternative: Temazcal
 
-Research suggests **lower risk than previously assumed** for Bipolar II, but risk is **real and significant**. This should only be considered with:
-- Medical consultation
-- Professional supervision
-- Proper preparation and integration support
-
-**The temazcal is a powerful, meaningful ceremonial experience that doesn't carry these risks.** Consider making that the focus.
+The temazcal ceremony offers a profound, transformative experience through heat, intention, and community - without the medication interaction concerns. Many people find it deeply meaningful. It can be a beautiful focus for the San José visit.
 
 ---
 
