@@ -8,6 +8,7 @@
 | **[Mezcal Guide](mezcal-guide.md)** | Palenques, mezcalerías, agave varieties, where to buy |
 | **[San José del Pacífico](san-jose-del-pacifico.md)** | Temazcal ceremonies, mushroom info, accommodations (Tío's, Cabañas Rubí), bipolar safety |
 | **[Beach Guide](beach-guide.md)** | Mazunte, Zipolite, restaurants, wellness, Punta Cometa |
+| **[Spiritual Guide](spiritual-guide.md)** | Full hippie mode - temazcal, cacao, ecstatic dance, retreats |
 | **[Practical Info](practical-info.md)** | Flights, transport, packing, budget, booking checklist |
 | **[Packing List](packing-list.md)** | One carry-on for all climates - merino, layers, beach gear |
 
