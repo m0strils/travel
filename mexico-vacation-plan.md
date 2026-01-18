@@ -18,9 +18,9 @@
 
 | Detail | Information |
 |--------|-------------|
-| **Duration** | 12-14 Days |
+| **Duration** | 10-14 Days (flexible) |
 | **Dates** | **After February 19, 2026** (suggested: Sat, Feb 21 - Thu, March 5) |
-| **Destinations** | Mexico City → Toluca (acclimate) → Oaxaca City → San José del Pacífico → Beach (Mazunte/Zipolite) |
+| **Destinations** | Mexico City → Toluca (acclimate) → Oaxaca City → San José del Pacífico → Beach *(optional)* |
 | **Local Advantage** | Partner is from Toluca - Spanish-fluent group can access local tours & save money |
 
 ### The Route
@@ -46,10 +46,17 @@ Mexico City (7,350 ft) → Toluca (8,750 ft) → Oaxaca City (5,085 ft) → San 
 | 7 | Fri, Feb 27 | Oaxaca City | **Cooking class** (Susana Trilling or Me Encanta), markets |
 | 8 | Sat, Feb 28 | Oaxaca → San José | Drive to mountains, sunset in the clouds |
 | 9 | Sun, March 1 | San José del Pacífico | Hike, **temazcal**, disconnect |
+| 10 | Mon, March 2 | Departure or → Beach | Fly home from Oaxaca **OR** continue to coast |
+| | | | |
+| *Optional Beach Extension* | | | |
 | 10 | Mon, March 2 | San José → Mazunte | Descend to coast, beach sunset |
 | 11 | Tue, March 3 | Mazunte/Zipolite | Beach day, Punta Cometa sunset |
 | 12 | Wed, March 4 | Beach | Relax, snorkel, explore |
-| 13 | Thu, March 5 | Departure | Fly home from Puerto Escondido or Oaxaca |
+| 13 | Thu, March 5 | Departure | Fly home from Puerto Escondido or Huatulco |
+
+### Short Version (10 days)
+
+Skip beach → Fly home from Oaxaca on Day 10. Drive back from San José del Pacífico to Oaxaca (~3 hrs), fly out same day or next morning.
 
 ---
 
