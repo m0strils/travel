@@ -41,17 +41,17 @@ Mexico City (7,350 ft) → Toluca (8,750 ft) → Oaxaca City (5,085 ft) → San 
 
 ### Oaxaca Food & Wine Festival (Feb 25 - March 1, 2026)
 
-This is THE culinary event in Oaxaca - and you'll be there for the whole thing!
+The festival happens during your visit - but it's touristy and expensive. **Consider 1-2 events max** rather than going all-in:
 
-| Detail | Info |
-|--------|------|
-| **Dates** | February 25 - March 1, 2026 |
-| **What** | 8 events across intimate venues in Centro Oaxaca |
-| **Vibe** | High standards, small venues, focus on mezcal, Oaxacan cuisine, Mexican wines |
-| **Format** | Different venue each night - tastings, dinners, pairings |
-| **Tickets** | [oaxacafoodandwinefestival.com](https://oaxacafoodandwinefestival.com/) |
+| Event Type | Worth It? | Notes |
+|------------|-----------|-------|
+| **Mezcal-focused lunches** | ✅ Yes | Traditional pairings, educational |
+| **Traditional cooking events** | ✅ Yes | Learn authentic techniques |
+| **Fancy wine dinners** | ❌ Skip | Tourist prices, not authentic Oaxaca |
 
-**Tip**: Book festival tickets early - events are intimate and sell out.
+**Better approach**: Spend your time eating where locals eat (see Rick Bayless recommendations below) and doing your own mezcal exploration at palenques.
+
+**If you do one event**: Pick a mezcal lunch or traditional cooking demonstration. Tickets at [oaxacafoodandwinefestival.com](https://oaxacafoodandwinefestival.com/)
 
 ### What's Happening in Late Feb/March
 
@@ -249,47 +249,132 @@ This is THE culinary event in Oaxaca - and you'll be there for the whole thing!
 
 ## Oaxaca City Food & Drink Guide
 
-### Must-Try Oaxacan Foods
+### Rick Bayless's Oaxaca Picks
 
-| Dish | What It Is | Where |
-|------|------------|-------|
-| **Tlayudas** | Giant crispy tortilla with beans, cheese, meat | Tlayudas Libres (street stand) |
-| **Mole negro** | Complex dark mole with 30+ ingredients | Casa Oaxaca, Origen |
-| **Chapulines** | Toasted grasshoppers with lime and chili | Any market - smaller ones are best |
-| **Memelas** | Thick corn cakes with toppings | Itanoni |
-| **Tasajo** | Dried beef, grilled | Mercado 20 de Noviembre |
-| **Tamales oaxaqueños** | Wrapped in banana leaf, mole inside | Markets, morning vendors |
-| **Chocolate oaxaqueño** | Hot chocolate made from local cacao | Mayordomo, any market |
+Chef Rick Bayless has been leading culinary tours to Oaxaca for 26+ years. Here's where he sends everyone:
 
-### Top Restaurants
+#### His "Last Meal" Spot: Mercado 20 de Noviembre
 
-| Restaurant | Style | Known For | Price |
-|------------|-------|-----------|-------|
-| **Casa Oaxaca** | Upscale traditional | Mole tasting, rooftop views | $$$ |
-| **Origen** | Modern Oaxacan | Chef Rodolfo Castellanos (Top Chef Mexico) | $$$ |
-| **El Destilado** | Tasting menu | 6-12 course menus with mezcal pairing | $$$$ |
-| **Levadura de Olla** | Traditional | Tamal de requesón, Chef Thalía Barrios | $$ |
-| **Itanoni** | Corn-focused | Heirloom corn varieties, memelas, tetelas | $ |
-| **Crudo** | Japanese-Oaxacan | Omakase, only 6 seats in private room | $$$$ |
+> *"This is where I would eat my last meal."* - Rick Bayless
 
-### Mezcal Bars (Mezcalerías)
+**The Pasillo de Carnes Asadas (Meat Aisle)**:
+- A smoky corridor of grills
+- Order 150-200 grams of various meats at the stalls - they grill it for you
+- Ladies come around with fresh tortillas
+- Bayless says these are **"the best tortillas in the world"** - big, handmade, beautiful
+- Richly-burnished chiles and onions alongside thin-sliced beef, pork, robust chorizo
 
-| Place | Vibe | Notes |
-|-------|------|-------|
-| **In Situ** | "Cathedral of mezcal" | Vast selection, educational, walk-ins OK |
-| **La Mezcaloteca** | Intimate tasting room | **Reservation required** - small batch only |
-| **Expendio Tradición** | 1930s ambiance | Family-owned 140+ years, food too |
-| **Los Danzantes** | Trendy, produces own label | Good for a night out |
-| **Bar Ilegal** | Eclectic, edgy | Stylish mezcal bar |
+**La Abuelita** (10 paces from the meat aisle):
+- Been there nearly 100 years
+- Hit it for **breakfast** (10am-12pm) for enchiladas, enfrijoladas, enmoladas
+- Communal seating, very traditional
+
+#### Bayless's #1 Restaurant Pick: Los Danzantes
+
+> *"I would eat here first and foremost."*
+
+- Owned by the mezcal people (Danzantes and Alipus brands)
+- "One of the coolest rooms in town"
+- Modern/traditional food with excellent Mexican wines
+- Their own mezcal line - order it
+- **Reservations recommended**
+
+#### Other Bayless Favorites
+
+| Restaurant | Why He Loves It |
+|------------|-----------------|
+| **Las Quince Letras** | "Best traditional restaurant in town" - Doña Celia makes mole from scratch |
+| **Casa Oaxaca** | "Granddaddy of modern Oaxacan food" - rooftop views of Santo Domingo |
+| **Origen** | Top Chef Mexico winner, ingredient-focused, great cocktails |
+| **La Teca** | Tehuantepec cuisine in a woman's house - "very homey and delicious" |
+| **Boulenc** | Great bakery, excellent wood-fired pizza |
+| **Tlayudas Libres** | "Most famous of Oaxaca's most famous street food" - evenings only |
+
+#### Must-Try Dishes (Bayless Edition)
+
+| Dish | What It Is | His Take |
+|------|------------|----------|
+| **Mole negro** | 30+ ingredient dark mole | "May be the most haunting dish" |
+| **Chichilo** | Dark chile mole with avocado leaves | "Can't get enough of it" - only in Oaxaca |
+| **Mole amarillo** | Yellow mole with hoja santa | "Make sure you taste this" |
+| **Tlayudas** | Giant crispy tortilla | Made with bolita corn endemic to Oaxaca |
+| **Chapulines** | Toasted grasshoppers | "The smaller ones are the best" |
+
+---
+
+## Artisanal Mezcal: The Real Experience
+
+Skip the tourist tastings. Here's how to experience mezcal like it's meant to be:
+
+### What Makes Mezcal "Artisanal"
+
+| Type | Method | What to Look For |
+|------|--------|------------------|
+| **Industrial** | Autoclaves, column stills, commercial yeast | Avoid - mass produced |
+| **Artisanal** | Earthen pit roasting, copper/clay pots, natural yeast | This is what you want (92% of mezcal) |
+| **Ancestral** | Clay pot distillation only, hand-crushed | The most traditional - seek it out |
+
+### Mezcalerías in Oaxaca City
+
+| Place | Vibe | Why Go |
+|-------|------|--------|
+| **In Situ** | "Cathedral of mezcal" | Owner Ulises tracks down rarest agaves. Vast selection, educational. Walk-ins OK. 2-11pm Mon-Sat |
+| **La Mezcaloteca** | Intimate, serious | Works ONLY with small farmers using traditional methods. **Reservation required** - no walk-ins |
+| **Mezcalería Cuish** | Off tourist path | Tiny batches, constantly changing selection. If you like something, buy it - may be gone tomorrow |
+| **Quiote Mezcalería** | Xochimilco neighborhood | 100+ small-batch mezcals, owner Celia is incredibly knowledgeable |
+| **Expendio Tradición** | 1930s ambiance | Family-owned 140+ years, excellent food too |
+
+### Visit a Palenque (Distillery)
+
+This is the real experience - visit where mezcal is actually made:
+
+**Real Minero** (Santa Catarina Minas, 1 hr from Oaxaca)
+- Ángeles family, 4th generation since 1898
+- 22 different agave varieties, world's first agave seed bank
+- All ancestral clay pot distillation
+- Sit-down tasting of 4 unique mezcals
+- Led by Graciella Ángeles - deep insight into sustainability
+
+**Lalocura** (Santa Catarina Minas)
+- Maestro: Eduardo "Lalo" Ángeles
+- "One of the greatest mezcaleros working today"
+- Hand-mashes agave, cypress tub fermentation, clay pot distillation
+- Cult following of chefs and writers
+- 20+ expressions resting at any time
+
+**Best Tour Guide: Alvin (Mezcal Educational Tours)**
+- "Not typical tourist trips"
+- Takes you to authentic family-owned palenques
+- Nothing pre-planned for tourists
+- Extremely knowledgeable and connected
+
+### Agave Varieties to Try
+
+| Agave | Years to Mature | Flavor Profile | Price |
+|-------|-----------------|----------------|-------|
+| **Espadín** | 6-8 | Sweet, honeyed, roasted agave | $ (most common) |
+| **Tobalá** | 10-15 | Delicate, floral, incredible minerality | $$$ (wild only) |
+| **Cuishe** | 8-20 | Vegetal, earthy, "green" herbal | $$ |
+| **Arroqueño** | Up to 25 | Intensely complex, herbal, smoky | $$$ (very rare) |
+| **Tepeztate** | Up to 35 | Earthy, tropical fruit, extraordinary | $$$$ (mythical) |
+
+### Where to Buy Bottles
+
+| Shop | Why |
+|------|-----|
+| **Mis Mezcales** | Highly curated, passionate staff |
+| **Unión de Palenqueros** | Buy direct from producers - best prices, often in reused bottles |
+
+---
 
 ### Markets
 
-| Market | Best For | When |
-|--------|----------|------|
-| **Mercado Benito Juárez** | Chapulines, chocolate, crafts | Daily |
-| **Mercado 20 de Noviembre** | Grilled meats, tasajo | Lunch |
-| **Tlacolula Sunday Market** | Authentic village market, mezcal, produce | **Sundays only** |
-| **Mercado de Abastos** | Wholesale, overwhelming, real deal | Daily (go early) |
+| Market | Best For | Rick Bayless Says |
+|--------|----------|-------------------|
+| **Mercado 20 de Noviembre** | Grilled meats, breakfast | "This is where I would eat my last meal" |
+| **Mercado Benito Juárez** | Chapulines, chocolate, crafts | Great and manageable |
+| **Tlacolula Sunday Market** | Authentic village market | Freshly picked produce, tepache, pulque, smoked meats |
+| **Mercado de Abastos** | Wholesale, overwhelming | "Wondrous and huge" - for adventurous eaters |
 
 ---
 
@@ -303,7 +388,7 @@ This is THE culinary event in Oaxaca - and you'll be there for the whole thing!
 |------|----------|-------|
 | 9:00 AM | Depart Oaxaca City | Rent car or hire driver |
 | 12:00 PM | Arrive San José del Pacífico | Winding roads - take motion sickness meds! |
-| 1:00 PM | Check in, lunch | La Cumbre or similar |
+| 1:00 PM | Check in, lunch | Cabañas Pacífico (Tío's) or La Cumbre |
 | Afternoon | Rest, explore tiny town | Cash only - bring enough pesos |
 | 5:30 PM | **Sunset viewpoint** | La Cumbre hostel area or mirador |
 | Evening | Cozy dinner, early sleep | It's cold up here - bring layers |
@@ -314,31 +399,180 @@ This is THE culinary event in Oaxaca - and you'll be there for the whole thing!
 |------|----------|-------|
 | Morning | Sleep in, coffee with mountain views | |
 | 10:00 AM | **Pick one activity**: | |
+| | - **Temazcal ceremony** | See explanation below - deeply recommended |
 | | - Hike the forest trails | Behind La Cumbre, endless paths |
-| | - Temazcal ceremony | ~$9 USD, spiritual sweat lodge |
+| | - Mushroom tea at Tío's | See important notes below |
 | | - Suspension bridge at Itoo Café | Adventure activity |
 | | - Do nothing | Read, stare at clouds, disconnect |
 | Afternoon | More relaxation | Cell service is spotty - embrace it |
 | Evening | Final mountain sunset | You'll want to stay longer |
 
+---
+
+## What is a Temazcal Ceremony?
+
+A **temazcal** is an ancient Mesoamerican sweat lodge ceremony - far more than just a steam bath. The word means "house of heat" in Nahuatl.
+
+### The Ritual
+
+| Element | What Happens |
+|---------|--------------|
+| **Structure** | Dome-shaped lodge (igloo-like) made of volcanic stone, clay, or wood - represents the womb of Mother Earth |
+| **The Four Doors** | Ceremony divided into 4 parts (doors), each progressively hotter as new volcanic stones ("abuelas"/grandmothers) are added |
+| **The Guide** | A temazcalero/a leads with songs, chants, meditation, drumming, prayers |
+| **The Steam** | Water infused with medicinal herbs (sage, copal, local plants) poured over hot stones |
+| **Duration** | 1-2 hours typically |
+
+### What to Expect
+
+**Physically:**
+- Intense heat (especially in later rounds)
+- Increased heart rate and sweating
+- Possible dizziness - communicate if you feel unwell
+
+**Emotionally:**
+- Many experience emotional release - crying, laughter, deep introspection
+- Can be profoundly moving
+- Symbolizes death and rebirth
+
+**After:**
+- Feel refreshed, rejuvenated, emotionally cleansed
+- Fresh fruit and agua fresca typically shared
+- You may feel tired - allow time to rest
+
+### Where to Do Temazcal
+
+**In San José del Pacífico:**
+
+| Place | Cost | Notes |
+|-------|------|-------|
+| **Paco's Temazcal** | 150 pesos (~$8) | Check at "Arbolcromatico" tattoo parlor for times |
+| **Laberinto del Pacifico** | 500 pesos (~$25) | Reservation required, private sessions |
+| **Temazcal Los 4 Elementos Navarro** | Varies | Local resident guide, stone/clay dome |
+
+**In Oaxaca City (if you prefer):**
+
+| Place | Why It's Special |
+|-------|------------------|
+| **Ceviarem Temazcal** (TOP PICK) | Authentic Zapotec ceremony with Blanca & Joshave. ~$50/person. English spoken. Transportation arranged. |
+| **Nabani SPAcio Holistico** | Full experience with meal, card readings, herb selection. Saturdays. |
+
+### What to Bring/Wear
+
+- Swimsuit or shorts (natural fabrics only - no synthetics)
+- Towel
+- Complete change of warm, dry clothes
+- Fresh fruit to share (courtesy)
+- Water bottle for after
+
+### Who Should NOT Do Temazcal
+
+- Pregnant women
+- Heart conditions or high blood pressure
+- Severe claustrophobia
+- Diabetes
+
+**Important**: Do temazcal BEFORE any mushroom experience, not after. It's meant as cleansing preparation.
+
+---
+
+## Mushroom Tea & Guided Experiences
+
+### Cabañas Pacífico (Tío's Place)
+
+This is the original and most trusted spot - **"Tío"** opened it 20+ years ago.
+
+| Detail | Info |
+|--------|------|
+| **What** | Mushroom tea served at hilltop restaurant |
+| **How** | Ask for "Hongo" - staff brings mushrooms or prepares tea |
+| **Setting** | Stunning nature views, peaceful |
+| **Guidance** | Follow instructions from the grandmother who serves |
+| **Reputation** | "Pretty much the one place in town that is most trusted" |
+
+### Critical Timing Note
+
+**You're visiting late February/early March - this is OFF-SEASON for fresh mushrooms.**
+
+| Season | Availability |
+|--------|--------------|
+| **July-October** | Fresh mushrooms, best quality, cheapest |
+| **November-June** | Dried mushrooms, tea, or preserved in honey only |
+
+**Your options in late February:**
+1. Mushroom tea at Tío's (preserved in honey - most reliable off-season)
+2. Focus on temazcal as the ceremonial experience
+3. Consider this a reconnaissance trip and return July-October
+
+---
+
+## ⚠️ IMPORTANT: Safety Information for Bipolar Disorder
+
+**This section is critical for your friend.**
+
+### What Medical Research Shows
+
+| Finding | Details |
+|---------|---------|
+| **Risk level** | ~1 in 3 people with bipolar disorder who use psilocybin report adverse effects |
+| **Types of adverse effects** | New or worsening manic symptoms, sleep difficulties, anxiety |
+| **Clinical trials** | Have historically EXCLUDED people with bipolar disorder |
+| **Recent research** | Small studies on Bipolar II show promise, but data is limited |
+
+### Absolute Contraindications
+
+| ❌ NEVER combine with | Why |
+|----------------------|-----|
+| **LITHIUM** | **EXTREMELY DANGEROUS** - risk of seizures |
+| **Antipsychotics** | Blocks effects, unpredictable interactions |
+| **SSRIs/MAOIs** | Risk of serotonin syndrome |
+
+### If Your Friend Is Considering This
+
+1. **Consult their psychiatrist first** - this is non-negotiable
+2. **Bipolar I vs Bipolar II matters** - Bipolar I carries higher risk
+3. **Medication status** - any medication changes require medical supervision
+4. **Professional supervision strongly recommended** - not a casual decision
+5. **Have a plan** - know how to contact mental health provider if symptoms worsen
+
+### Harm Reduction if Proceeding
+
+- Start with very low dose if at all
+- Have a completely sober trip sitter present
+- Monitor carefully for emerging manic symptoms (reduced sleep, increased energy, impulsivity)
+- Track mood changes in days/weeks following
+- Do NOT proceed if currently in unstable mood state
+
+### The Bottom Line
+
+Research suggests **lower risk than previously assumed** for Bipolar II, but risk is **real and significant**. This should only be considered with:
+- Medical consultation
+- Professional supervision
+- Proper preparation and integration support
+
+**The temazcal is a powerful, meaningful ceremonial experience that doesn't carry these risks.** Consider making that the focus.
+
+---
+
 ### San José del Pacífico Tips
 
 | Tip | Details |
 |-----|---------|
-| **Bring cash** | Nearest ATM is 1+ hour away |
+| **Bring LOTS of cash** | Nearest ATM is 1+ hour away |
 | **Bring layers** | Nights are cold, misty, ~50°F |
-| **Motion sickness** | The drive is VERY winding - take meds |
+| **Motion sickness meds** | The drive is VERY winding - take Dramamine |
 | **2 nights minimum** | One night isn't enough to decompress |
-| **Mushroom season** | July-October (you'll miss it, but that's OK) |
+| **Fresh mushroom season** | July-October only |
 | **Disconnect** | Limited wifi/cell - that's the point |
 
 ### Where to Stay
 
 | Place | Vibe |
 |-------|------|
-| **La Cumbre** | Popular hostel, great views, budget |
+| **Cabañas Pacífico (Tío's)** | The original, 20+ years, most trusted for mushroom tea |
+| **La Cumbre** | Popular hostel, great views, budget, good temazcal connections |
 | **Cabañas Puesta del Sol** | Cozy cabins, quieter |
-| **Various cabañas** | Many family-run options in town |
+| **Laberinto del Pacifico** | Private temazcal available |
 
 ---
 
@@ -352,59 +586,157 @@ This is THE culinary event in Oaxaca - and you'll be there for the whole thing!
 |------|----------|-------|
 | 9:00 AM | Depart San José del Pacífico | |
 | 12:30 PM | Arrive Mazunte | ~3.5 hr drive, equally winding |
-| 1:00 PM | Check in, lunch on beach | La Pizzeria or Doba |
-| Afternoon | Beach time, swim, adjust to heat | You'll feel the temperature change! |
+| 1:00 PM | Check in, lunch | La Pizzeria or Doba |
+| 3:00 PM | **Cosméticos Naturales de Mazunte** | Woman-owned natural cosmetics cooperative |
 | 5:30 PM | **Punta Cometa sunset** | Southernmost point of Oaxaca - don't miss |
-| Evening | Dinner, early sleep | Beach life begins |
+| Evening | Tacos at Los Poblanitos | Where locals eat, cash only |
 
-### Day 11: Tuesday, March 3 - Beach Day
+### Day 11: Tuesday, March 3 - Culture & Beach Day
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| Morning | Slow breakfast, beach | |
+| 7:00 AM | Sunrise at Punta Cometa (optional) | Magical, uncrowded |
+| 9:00 AM | Slow breakfast at Doba | Feet in sand, Mermejita Beach |
 | 11:00 AM | **Pick one**: | |
-| | - Walk to Zipolite | 15 min, bohemian vibe, nude beach |
-| | - Snorkel at Playa Estacahuite | Turquoise cove, rent gear there |
-| | - San Agustinillo | Mellower surf, swimming |
-| | - Just stay on Mazunte beach | Also valid |
+| | - **La Ventanilla eco-tour** | Mangrove boat tour, crocodiles, birds - see below |
+| | - Snorkel at Playa Estacahuite | Turquoise cove, dramatic cliffs |
+| | - Walk to Zipolite | 15 min, bohemian vibe |
+| | - Mexican Turtle Center | Conservation, educational |
 | Afternoon | Beach, hammock, book | |
-| 5:30 PM | Punta Cometa again (or not) | Sunsets never get old |
-| Evening | Dinner at El Armadillo | Plant-based, garden setting |
+| 5:30 PM | Punta Cometa sunset (again) | Never gets old |
+| Evening | Dinner at El Armadillo | Garden setting, plant-based Moroccan |
 
 ### Day 12: Wednesday, March 4 - Final Beach Day
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| Morning | Beach, breakfast | |
-| Afternoon | Last swim, pack | |
-| Evening | Farewell dinner | Splurge at El Alquimista (Zipolite) |
+| Morning | Beach, coffee at Café Panchatantra | Award-winning barista |
+| Afternoon | Last swim, wander San Agustinillo | 15 min walk, safer swimming |
+| Evening | Farewell dinner at El Alquimista | Splurge - best on coast |
+
+---
+
+## Mazunte: What Makes It Special
+
+**Pueblo Mágico** status - recognized for natural beauty and commitment to sustainability.
+
+In the 1970s, Mazunte was Mexico's center for sea turtle hunting. When the ban came, the town transformed into a model of eco-tourism and social responsibility. Today: yoga, organic food, natural cosmetics, bohemian wanderers.
+
+### Unique Experiences
+
+**Punta Cometa (Cerro Sagrado)**
+- Southernmost point of Oaxaca state
+- Sacred ceremonial site in pre-Hispanic times
+- 15-20 min hike to top
+- In winter: whale watching and bird migration
+- Entry fee ~30-40 pesos
+- Bring a torch for the walk back after sunset
+
+**La Ventanilla (Hidden Gem)**
+- Small indigenous community 2 miles west of Mazunte
+- Restored mangrove forest since 1996
+- 200+ bird species (roseate spoonbills, frigatebirds, herons)
+- Crocodile boat tours, mangrove walks
+- Ultra-fresh seafood at the *enramadas*
+- Entry: 200 pesos | Colectivo: 10 pesos
+- Best tours: early morning or mid-afternoon
+
+**Cosméticos Naturales de Mazunte**
+- Woman-owned cooperative founded 1996
+- Co-created with Anita Roddick (The Body Shop)
+- 100% natural products: shampoo, soap, mosquito repellent
+- Made with coconut, sesame, eucalyptus, avocado
+- Visit the workshop, buy directly
+
+**Mexican Turtle Center (Centro Mexicano de la Tortuga)**
+- Conservation center for olive ridley and hawksbill turtles
+- Educational tours
+- Turtle release ceremonies at sunset (July-January peak)
 
 ---
 
 ## Beach Restaurants
 
-### Mazunte
+### Where Locals Eat (Budget)
 
-| Restaurant | Known For | Vibe |
-|------------|-----------|------|
-| **La Pizzeria** | Best wood-fired pizza in Oaxaca coast | Must-visit |
-| **Doba** | Breakfast on Mermejita Beach | Best breakfast, feet in sand |
-| **El Armadillo** | Plant-based, Moroccan flavors | Garden setting, romantic |
-| **La Terraza de Arquitecto** | Sunset drinks, deck over beach | Great for remote work too |
-| **Los Poblanitos** | Cheap tacos al pastor | Local crowd, cash only |
-| **Café Panchatantra** | Award-winning coffee, pastries | Latte art, vegan desserts |
+| Restaurant | Known For | Price |
+|------------|-----------|-------|
+| **Los Poblanitos** | Tacos al pastor - always packed with locals | $ |
+| **Antojitos** (park, evenings) | Street food stand - stews, tlayudas | $ |
+| **Taquería El Delfín** | Authentic tacos with mushrooms, 40¢ each | $ |
+| **Restaurant Tadeo** | Huge tlayudas, cheap, every filling | $ |
+
+### Hidden Gems
+
+| Restaurant | Known For | Why It's Special |
+|------------|-----------|------------------|
+| **Reina Negra** | Asian fusion - pork ramen, Korean fried chicken | Dynamic daily menu, 2 min from center |
+| **Pizzeria La Buona Onda** | Wood-fired pizza | Hidden side street, family-run |
+| **Lost Aguacates** | Falafel, cactus burgers | "Open when they feel like it" - evening vibes |
+| **Arena Negra** | Fresh seafood, black bean burgers | Hidden up a flight of stairs |
+
+### Best For...
+
+| Meal | Go To |
+|------|-------|
+| **Breakfast** | **Doba** - Mermejita Beach, feet in sand, live music sometimes |
+| **Coffee** | **Café Panchatantra** - award-winning barista, latte art, vegan desserts |
+| **Pizza** | **La Pizzeria** - best wood-fired on the coast |
+| **Fancy dinner** | **El Armadillo** - plant-based, Moroccan, garden setting |
+| **Sunset drinks** | **La Terraza de Arquitecto** - deck over beach |
+| **Late night tacos** | **Los Poblanitos** - local crowd |
 
 ### Zipolite
 
 | Restaurant | Known For | Vibe |
 |------------|-----------|------|
-| **El Alquimista** | Upscale beachfront | Best quality ingredients, beautiful design |
+| **El Alquimista** | Upscale beachfront, best quality ingredients | Splurge meal, beautiful design |
 
 ### San Agustinillo
 
 | Restaurant | Known For | Vibe |
 |------------|-----------|------|
-| **Luz del Sol** | Vegetarian, holistic center | Healthy, hearty meals |
+| **Luz del Sol** | Vegetarian, holistic center | Healthy, hearty, breakfast/lunch only |
+
+---
+
+## Wellness & Yoga in Mazunte
+
+**Hridaya Yoga** (Most Famous)
+- Hilltop center with Pacific views
+- 3 or 10-day silent meditation retreats
+- Drop-in meditation and Hatha Yoga classes
+- Community activities: bhajans, ecstatic dance, movie nights
+
+**Uma Yoga**
+- Luxury beach wellness retreats
+- Based at Hotel El Copal
+- 2 hatha classes daily, healthy meals
+
+**Casa Om**
+- Great for drop-in classes
+- Different styles daily
+
+**Other offerings around town:**
+- Ecstatic dance
+- Cacao ceremonies
+- Temazcal
+- Breathwork workshops
+
+---
+
+## Mazunte vs. Zipolite vs. San Agustinillo
+
+| | Mazunte | Zipolite | San Agustinillo |
+|---|---------|----------|-----------------|
+| **Vibe** | Zen, yoga, eco-conscious | Free-spirited, LGBTQ+, nude | Tranquil, family-friendly |
+| **Swimming** | Very little waves, protected | DANGEROUS undertow | Safest - rip-free, calm |
+| **Prices** | Higher | Lowest | Middle |
+| **Crowds** | Trendy, upscale tourists | Backpackers, alternative | Quieter |
+| **Beachfront hotels** | Few | Most options | Some |
+| **Best for** | Yoga, wellness, couples | Budget, freedom, parties | Families, swimmers |
+
+**Recommendation**: Base in Mazunte, walk to San Agustinillo for swimming, visit Zipolite for the vibe and El Alquimista dinner.
 
 ---
 
@@ -498,8 +830,9 @@ This is THE culinary event in Oaxaca - and you'll be there for the whole thing!
 | 🏨 **Mazunte/Zipolite** | 3 nights (March 2-4) | 2-4 weeks ahead |
 | 🚗 **Car rental** | Toluca: Feb 21-24, Oaxaca: Feb 28 - March 5 | 2-4 weeks ahead |
 | 🍽️ **Amaranta** | Sun, Feb 22 lunch | 2-4 weeks ahead |
-| 🍷 **Food & Wine Festival tickets** | Feb 25-March 1 events | ASAP - intimate venues sell out |
 | 🥃 **La Mezcaloteca** | Feb 26 or 27 | Required - no walk-ins |
+| 🥃 **Mezcal palenque tour** | Feb 26 or 27 (half day) | Book with Alvin (Mezcal Educational Tours) |
+| 🧖 **Ceviarem Temazcal** (optional) | Feb 26 or 27 in Oaxaca | Contact Blanca for reservation |
 
 ### Nice to Book Ahead
 
@@ -527,25 +860,48 @@ This is THE culinary event in Oaxaca - and you'll be there for the whole thing!
 | Flights (international) | Feb 21 arrive, March 5-6 depart | 🔴 **Do first** |
 | Flight (MEX → OAX) | Feb 24 | 🔴 **Do first** |
 | Hotels (all 4 locations) | Feb 21 - March 4 | 🔴 **Do first** |
-| Food & Wine Festival | Feb 25-March 1 | 🔴 **Do first** |
 | Car rental (2 segments) | Feb 21-24, Feb 28 - March 5 | 🟡 Soon |
-| Amaranta | Feb 22 lunch | 🟡 Soon |
-| La Mezcaloteca | Feb 26 or 27 | 🟡 Soon |
-| Activities | Various | 🟢 Can wait |
+| Amaranta (Toluca) | Feb 22 lunch | 🟡 Soon |
+| Los Danzantes (Oaxaca) | Feb 25 or 26 dinner | 🟡 Soon |
+| La Mezcaloteca | Feb 26 or 27 | 🟡 Soon (reservation required) |
+| Palenque tour with Alvin | Feb 26 or 27 | 🟡 Soon |
+| Ceviarem Temazcal | Feb 26-27 (optional) | 🟢 Can wait |
+| Cabañas Pacífico (Tío's) | Feb 28 - March 1 | 🟢 Can book closer |
 
 ---
 
 ## Sources
 
-- [Oaxaca Food & Wine Festival](https://oaxacafoodandwinefestival.com/)
-- [Monte Albán Heritage Center - 2026 Events](https://montealbanoaxaca.com/the-2026-oaxaca-event-calendar-new-workshops-festivals-and-cultural-immersion/)
-- [San José del Pacífico Guide](https://www.shevstrolls.com/san-jose-del-pacifico-oaxaca/)
-- [Holistic Backpacker - San José Itinerary](https://theholisticbackpacker.com/san-jose-del-pacifico-itinerary-where-to-stay-san-mateo-hikes/)
-- [Oaxaca Travel Tips - Best Restaurants](https://oaxacatraveltips.com/best-restaurants-in-oaxaca/)
-- [Brooklyn Tropicali - Oaxaca Food Guide](https://www.brooklyntropicali.com/best-restaurants-in-oaxaca-food-guide/)
+### Rick Bayless Recommendations
+- [Rick Bayless Travel Guides](https://www.rickbayless.com/about-rick-bayless/ricks-travel-guide/)
+- [Fed Guides - Eating in Oaxaca](https://www.fedguides.com/features/eating-in-oaxaca)
+
+### Mezcal
 - [Mezcalistas - Where to Drink Mezcal](https://www.mezcalistas.com/mezcal-in-oaxaca/)
+- [No Maps or Foot Tracks - Mezcal Guide to Oaxaca](https://nomapsorfoottracks.com/blog/a-mezcal-guide-to-oaxaca)
+- [Wine Enthusiast - Best Mezcal in Oaxaca](https://www.wineenthusiast.com/culture/travel/where-to-sip-the-best-mezcal-in-oaxaca-mexico/)
+- [Brooklyn Tropicali - Oaxaca Mezcaleria Guide](https://www.brooklyntropicali.com/oaxaca-mezcaleria-guide-8-places-to-drink-mezcal-in-oaxaca/)
+
+### Temazcal Ceremonies
+- [Oaxaca Travel Tips - Best Temazcal](https://oaxacatraveltips.com/best-temazcal-oaxaca/)
+- [TripAdvisor - Ceviarem Temazcal](https://www.tripadvisor.ca/Attraction_Review-g150801-d4603239-Reviews-Ceviarem_Temazcal_Oaxaca-Oaxaca_Southern_Mexico.html)
+- [Journey Mexico - Temazcal Ceremony Guide](https://www.journeymexico.com/blog/temazcal-ceremony-guide)
+
+### San José del Pacífico
+- [San José del Pacífico Guide 2026](https://www.shevstrolls.com/san-jose-del-pacifico-oaxaca/)
+- [Oaxaca Travel Tips - San José del Pacífico](https://oaxacatraveltips.com/san-jose-del-pacifico/)
+- [Where Sidewalks End - Magic Mushroom Capital](https://www.wheresidewalksend.com/magic-mushroom-capital-of-mexico-san-jose-del-pacifico/)
+
+### Mazunte & Coast
 - [Oaxaca Travel Tips - Mazunte Restaurants](https://oaxacatraveltips.com/best-restaurants-in-mazunte/)
 - [Brooklyn Tropicali - Mazunte Guide](https://www.brooklyntropicali.com/san-agustinillo-mazunte-oaxaca-travel-guide/)
-- [Surf Atlas - Oaxaca Surf Guide](https://thesurfatlas.com/surfing-mexico/oaxaca-surf/)
-- [Mexico City to Oaxaca Transport](https://getlostinmexicocity.com/mexico-city-to-oaxaca/)
+- [Global Gallivanting - Mazunte Guide](https://www.global-gallivanting.com/mazunte-oaxaca-mexico-guide/)
+
+### Safety Information
+- [JAMA Psychiatry - Psilocybin and Bipolar Depression](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2812443)
+- [CREST.BD - Psilocybin and Bipolar Disorder](https://www.crestbd.ca/2022/01/06/bipolar-psychedelics-psilocybin/)
+
+### General
+- [Oaxaca Food & Wine Festival](https://oaxacafoodandwinefestival.com/)
+- [Monte Albán Heritage Center - 2026 Events](https://montealbanoaxaca.com/the-2026-oaxaca-event-calendar-new-workshops-festivals-and-cultural-immersion/)
 - [Amaranta Restaurant](https://www.amarantarestaurante.com/)
