@@ -290,6 +290,32 @@ Chef Rick Bayless has been leading culinary tours to Oaxaca for 26+ years. Here'
 | **Boulenc** | Great bakery, excellent wood-fired pizza |
 | **Tlayudas Libres** | "Most famous of Oaxaca's most famous street food" - evenings only |
 
+#### Caldo de Piedra (Stone Soup) - Day Trip
+
+Bayless featured this ancient Chinantec cooking method in his TV series. **Not in Oaxaca City** - worth the trip!
+
+| Detail | Info |
+|--------|------|
+| **What** | Fish/shrimp soup flash-cooked by dropping fire-heated volcanic rocks into the broth |
+| **Location** | Km 11.9 on highway to Tule (~20 min from Oaxaca) |
+| **Owner** | César Gachupín - got permission from village elders in San Felipe Usila before opening |
+| **Tradition** | Pre-Hispanic Chinantec method, originally cooked on riverbanks after fishing |
+| **Vibe** | Palapa-style, thatched roof, humble but incredible |
+
+#### La Capilla, Zaachila - Rick's Barbacoa Spot
+
+Bayless is "so enamored" with their pit-cooked meat that he recreates it at home. **Go on Thursday for market day!**
+
+| Detail | Info |
+|--------|------|
+| **What** | Lamb and goat barbacoa, buried in chile-seasoned embers for hours |
+| **Location** | Zaachila, ~30 min from Oaxaca City center |
+| **History** | 65+ years, visited by presidents and celebrities (photos on display) |
+| **Vibe** | Massive palapa canopy, log tables, aviaries with peacocks and monkeys |
+| **Extras** | Free welcome mezcal, hammocks for post-meal siestas |
+| **Specialties** | Giant *blandas* tortillas, tlayudas, barbacoa |
+| **Best Day** | **Thursday** - market day in Zaachila |
+
 #### Must-Try Dishes (Bayless Edition)
 
 | Dish | What It Is | His Take |
@@ -375,6 +401,41 @@ This is the real experience - visit where mezcal is actually made:
 | **Mercado Benito Juárez** | Chapulines, chocolate, crafts | Great and manageable |
 | **Tlacolula Sunday Market** | Authentic village market | Freshly picked produce, tepache, pulque, smoked meats |
 | **Mercado de Abastos** | Wholesale, overwhelming | "Wondrous and huge" - for adventurous eaters |
+
+---
+
+## Food Tours & Cooking Classes
+
+### Traveling with a Mexican National? Your Advantage
+
+Since you're traveling with a Mexican national, you have access to more authentic experiences:
+- **Skip the English-speaking tour premium** - save 30-50% on tours
+- **Access local-only experiences** - some guides prefer Spanish-only groups
+- **Better prices** - no tourist markup when booking directly
+- **Deeper cultural context** - your partner can translate nuance and ask better questions
+
+### Best Food Tours in Oaxaca
+
+| Tour | Guide | Why It's Special | Best For |
+|------|-------|------------------|----------|
+| **Me Encanta Oaxaca** | Betsaida (Zapotec woman) | Indigenous perspective, market tours, home cooking | Most authentic experience |
+| **Reyna's Traditional Zapotec Classes** | Reyna | Small group, traditional recipes, village visits | Hands-on cooking |
+| **Seasons of My Heart** | Susana Trilling | Established since 1990s, ranch outside city | In-depth multi-day option |
+| **Oscar's Flavors of Oaxaca** | Oscar | Street food focus, evening tours | Market eating, casual |
+
+### Recommended Approach (With Mexican National)
+
+1. **Skip formal tours** - Have your partner ask locals directly for recommendations
+2. **Do a cooking class** - Me Encanta Oaxaca or Reyna's are worth it even with a local companion
+3. **Go to Zaachila on Thursday** - La Capilla + market, no tour needed
+4. **Tlacolula Sunday Market** - Go on your own, it's easy and more authentic without a guide
+5. **Caldo de Piedra day trip** - Easy drive, no tour needed, just show up
+
+### Booking Notes
+
+- **Me Encanta Oaxaca**: Contact Betsaida directly via Instagram or email
+- **Reyna's**: Book at least a week ahead
+- **Seasons of My Heart**: Book 2+ weeks for full-day experiences
 
 ---
 
@@ -503,6 +564,34 @@ This is the original and most trusted spot - **"Tío"** opened it 20+ years ago.
 1. Mushroom tea at Tío's (preserved in honey - most reliable off-season)
 2. Focus on temazcal as the ceremonial experience
 3. Consider this a reconnaissance trip and return July-October
+
+### Mushroom Foraging Tours & Other Options
+
+Even in the off-season, there are some alternatives:
+
+| Option | Details | Season |
+|--------|---------|--------|
+| **Cabañas Rubí** | Offers mushroom chocolates and honey-preserved options year-round | Year-round |
+| **Local foraging walks** | Ask at La Cumbre or Tío's - some guides know where to find off-season varieties | Feb/March (limited) |
+| **Coyote Aventuras** | 4-day guided retreats with ceremonies - only available June-July | Summer only |
+
+### How to Find a Guide (With Mexican National)
+
+Your partner can help access guides that don't advertise to tourists:
+1. **Ask at Cabañas Pacífico directly** - Staff know everyone
+2. **Talk to locals in town** - Small community, word of mouth
+3. **Check at the small tiendas** - Shop owners often know guides
+4. **Be patient** - Trust is earned, especially off-season
+
+### What's Available Off-Season
+
+| Form | Availability | Notes |
+|------|--------------|-------|
+| **Fresh mushrooms** | ❌ Not available | Season is July-October only |
+| **Dried mushrooms** | ⚠️ Limited | Ask locally, quality varies |
+| **Honey-preserved** | ✅ Most reliable | Tío's specializes in this |
+| **Mushroom tea** | ✅ Available | Standard preparation at Tío's |
+| **Chocolates** | ✅ Available | Cabañas Rubí offers these |
 
 ---
 
