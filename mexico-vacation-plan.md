@@ -1,648 +1,283 @@
-# Mexico Vacation Plan: Toluca Region + Zihuatanejo
+# Mexico Vacation Plan: Toluca → Oaxaca → Beach
+
+## Knowledge Base
+
+| Guide | What's Inside |
+|-------|---------------|
+| **[Oaxaca Food Guide](oaxaca-food-guide.md)** | Rick Bayless picks, Susana Trilling cooking class, markets, food tours |
+| **[Mezcal Guide](mezcal-guide.md)** | Palenques, mezcalerías, agave varieties, where to buy |
+| **[San José del Pacífico](san-jose-del-pacifico.md)** | Temazcal ceremonies, mushroom info, accommodations (Tío's, Cabañas Rubí), bipolar safety |
+| **[Beach Guide](beach-guide.md)** | Mazunte, Zipolite, restaurants, wellness, Punta Cometa |
+| **[Practical Info](practical-info.md)** | Flights, transport, packing, budget, booking checklist |
+
+---
 
 ## Trip Overview
 
 | Detail | Information |
 |--------|-------------|
-| **Duration** | 9 Days |
-| **Dates** | **Saturday, January 17 - Sunday, January 25, 2026** |
-| **Destinations** | Toluca & Surroundings (4 days) → **Zihuatanejo** (4 days) → Departure |
-| **Local Advantage** | Partner is from Toluca - local knowledge for the best spots! |
+| **Duration** | 12-14 Days |
+| **Dates** | **After February 19, 2026** (suggested: Sat, Feb 21 - Thu, March 5) |
+| **Destinations** | Mexico City → Toluca (acclimate) → Oaxaca City → San José del Pacífico → Beach (Mazunte/Zipolite) |
+| **Local Advantage** | Partner is from Toluca + traveling with Mexican national |
 
-### The Schedule at a Glance
+### The Route
+
+```
+Mexico City (7,350 ft) → Toluca (8,750 ft) → Oaxaca City (5,085 ft) → San José del Pacífico (8,200 ft) → Coast (sea level)
+```
+
+**Altitude Strategy**: Start in Toluca to acclimate to high altitude, then descend gradually. By the time you reach San José del Pacífico, you'll be fully adjusted.
+
+---
+
+## The Schedule at a Glance
 
 | Day | Date | Where | Highlight |
 |-----|------|-------|-----------|
-| 1 | Sat, Jan 17 | Toluca | Arrive, settle in |
-| 2 | Sun, Jan 18 | Toluca | Cosmovitral, **Amaranta lunch**, Calixtlahuaca |
-| 3 | Mon, Jan 19 | **Mexico City** | Day trip - **Contramar**, Roma/Condesa, tacos |
-| 4 | Tue, Jan 20 | Toluca → Zihuatanejo | Volcano morning, fly to beach |
-| 5 | Wed, Jan 21 | Zihuatanejo | Explore town, Playa La Ropa sunset |
-| 6 | Thu, Jan 22 | Zihuatanejo | Snorkeling Las Gatas, **Pre-fest meet & greet** |
-| 7 | Fri, Jan 23 | Zihuatanejo | Flex day, **Opening Night @ Madana Bar** |
-| 8 | Sat, Jan 24 | Zihuatanejo | Beach morning, **Beach Party @ Coco Ixtapa** |
-| 9 | Sun, Jan 25 | Departure | Morning beach, fly home |
+| 1 | Sat, Feb 21 | Mexico City → Toluca | Arrive, settle in |
+| 2 | Sun, Feb 22 | Toluca | Cosmovitral, **Amaranta lunch**, acclimate |
+| 3 | Mon, Feb 23 | Toluca | Nevado de Toluca volcano, Calixtlahuaca |
+| 4 | Tue, Feb 24 | Toluca → Oaxaca | Fly to Oaxaca City |
+| 5 | Wed, Feb 25 | Oaxaca City | Explore centro, Food & Wine Festival begins |
+| 6 | Thu, Feb 26 | Oaxaca City | **La Capilla Zaachila** (market day!), mezcal tasting |
+| 7 | Fri, Feb 27 | Oaxaca City | **Cooking class** (Susana Trilling or Me Encanta), markets |
+| 8 | Sat, Feb 28 | Oaxaca → San José | Drive to mountains, sunset in the clouds |
+| 9 | Sun, March 1 | San José del Pacífico | Hike, **temazcal**, disconnect |
+| 10 | Mon, March 2 | San José → Mazunte | Descend to coast, beach sunset |
+| 11 | Tue, March 3 | Mazunte/Zipolite | Beach day, Punta Cometa sunset |
+| 12 | Wed, March 4 | Beach | Relax, snorkel, explore |
+| 13 | Thu, March 5 | Departure | Fly home from Puerto Escondido or Oaxaca |
 
 ---
 
-## January: Why It's Perfect
+## Days 1-3: Toluca (Feb 21-23)
 
-### What's Happening
-
-| Event | When | Where | Details |
-|-------|------|-------|---------|
-| **Whale Watching Season** | Dec 15 - Mar 20 | Zihuatanejo coast | Humpback whales - prime viewing |
-| **Baby Turtle Releases** | Aug - Feb | Playa Blanca | Still in season! |
-| **Tequila Rock 'n Blues Fest** | Jan 22-25, 2026 | Zihuatanejo/Ixtapa | Blues/rock festival - see details below |
-
-### Tequila Rock 'n Blues Festival (Jan 22-25, 2026)
-
-If your dates overlap, this is a fun, casual beach music festival:
-
-| Detail | Info |
-|--------|------|
-| **Dates** | January 22-25, 2026 |
-| **Vibe** | Relaxed fiesta-style, intimate venues, world-class performers |
-| **Venues** | Madana Bar (Zihuatanejo), Coco Ixtapa Beach Klub (Playa Linda) |
-
-**Schedule**:
-- **Jan 22** (Pre-fest): Meet & greet with performers, live rehearsal (free for ticket holders)
-- **Jan 23** (Opening Night): Madana Bar, Zihuatanejo, 6-11pm
-- **Jan 24** (Afternoon): Oceanside beach party, Coco Ixtapa, 1:30-4:30pm
-- **Jan 25**: Closing events
-
-**2026 Lineup**:
-- Joanna Connor (USA) - blues rock guitar legend
-- Evelyn Rubio (USA/Mexico) - soulful blues
-- Bex Marshall (UK) - first European headliner
-- Tangerine - Led Zeppelin tribute (Mexico City)
-- Dirty Deeds - AC/DC tribute (Mexico City)
-- Lorena Cabrera Bernal - Janis Joplin/Heart tribute
-
-**Tickets**: [tequilabluesrock.com](https://tequilabluesrock.com/) - Opening night often sells out, book early
-
-### January Weather
-
-| Location | Conditions |
-|----------|------------|
-| **Toluca** | Cool and dry. Days ~65-70°F, nights can drop to ~40°F. Bring layers. |
-| **Zihuatanejo** | Warm and dry. ~85°F days, ~70°F nights. Perfect beach weather. |
-
----
-
-## Destination Profiles
-
-### Toluca & Surroundings
-
-- **Location**: Capital of State of Mexico
-- **Elevation**: ~8,750 ft (cooler climate - pack layers!)
-- **Character**: Colonial architecture, indigenous heritage, gateway to natural wonders
-
-**Key Attractions**:
-- Cosmovitral Botanical Garden (stunning stained glass)
-- Nevado de Toluca volcano (Sun & Moon crater lagoons)
-- Calixtlahuaca archaeological ruins
-- Easy day trip to Mexico City (new train connection!)
-
-### Zihuatanejo
-
-- **Location**: Pacific coast, Guerrero state
-- **Vibe**: Romantic, peaceful, authentic fishing village
-- **Flight from Toluca**: ~1 hr direct (TLC→ZIH)
-- **Best For**: Relaxation, fresh seafood, couples, getting away from crowds
-- **Beaches**: 4 intimate bays - La Ropa, Las Gatas, Madera, Principal
-
----
-
-## Days 1-4: Toluca & Surroundings (Jan 17-20)
-
-### Day 1: Saturday, January 17 - Arrival
+### Day 1: Saturday, February 21 - Arrival
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| Morning/Afternoon | Arrive in Toluca | Fly into TLC or MEX + drive (~1 hr) |
+| Morning/Afternoon | Arrive Mexico City (MEX) | International flight |
+| Afternoon | Drive/bus to Toluca | ~1 hr from MEX airport |
 | Late Afternoon | Check in, rest | Adjust to altitude (8,750 ft) |
 | Evening | Easy walk around Centro | Get oriented, light dinner |
 
 **Take it slow** - altitude adjustment is real. Hydrate, don't overdo it.
 
-### Toluca Food You Can't Miss
-
-| Dish | What It Is | Where to Try |
-|------|------------|--------------|
-| **Chorizo verde** | Green chorizo made with cilantro, green chiles, pumpkin seeds - Toluca's signature | Mercado 16 de Septiembre, any taquería |
-| **Mosquitos** | Tiny tacos with small portions of meat (called this because of their size, not ingredients!) | Street vendors, market stalls |
-| **Tacos de plaza** | Market-style tacos with various fillings | Mercado 16 de Septiembre |
-| **Obispo** | Sausage made with pork offal - adventurous but traditional | Specialty charcutería stands |
-| **Mixiotes** | Meat wrapped and cooked in maguey leaves | Traditional restaurants |
-| **Tortas de chorizo** | Sandwiches with the local green chorizo, often with guacamole | Mercado or casual spots |
-
-**Market Tip**: Mercado 16 de Septiembre is best for breakfast and lunch - the food stalls wind down by afternoon. Go hungry.
-
----
-
-### Day 2: Sunday, January 18 - Culture Day
+### Day 2: Sunday, February 22 - Toluca Highlights
 
 | Time | Activity | Notes |
 |------|----------|-------|
 | 9:00 AM | Leisurely breakfast | Local café or hotel |
-| 10:30 AM | Cosmovitral Botanical Garden | World's largest stained glass mural, 3,000+ plants. Take your time - it's stunning |
-| 1:00 PM | **Lunch at Amaranta** | Reserve ahead - see details below |
-| 4:00 PM | Calixtlahuaca ruins | Aztec circular pyramid, 30 min from centro |
-| 7:00 PM | Return, relaxed evening | Light dinner in Centro |
+| 10:30 AM | Cosmovitral Botanical Garden | World's largest stained glass mural |
+| 1:00 PM | **Lunch at Amaranta** | Reserve ahead - Latin America's 50 Best |
+| 4:00 PM | Walk Portales, Centro Histórico | Coffee, people watching |
+| Evening | Relaxed dinner | Let your partner choose a local spot |
 
-#### Amaranta Restaurant
-
-| Detail | Info |
-|--------|------|
-| **What** | Contemporary Mexiquense cuisine by Chef Pablo Salas |
-| **Recognition** | Latin America's 50 Best Restaurants list |
-| **Style** | 7-course tasting menu, changes every 2 months |
-| **Known For** | Local ingredients, bold flavors, excellent pork dishes |
-| **Price** | ~$50-60 USD per person (food + drink) |
-| **Hours** | Mon-Fri 8am-6pm, Sat-Sun 9am-6pm |
-| **Address** | Calle Gral. Francisco Murguía Pte. 402, Col. Universidad |
-| **Reserve** | [amarantarestaurante.com](https://www.amarantarestaurante.com/) or OpenTable |
-
-**Tip**: This is the splurge meal for Toluca. Make reservations in advance - it's the best restaurant in the region.
-
----
-
-### Day 3: Monday, January 19 - Mexico City Day Trip
-
-| Time | Activity | Notes |
-|------|----------|-------|
-| 8:30 AM | Depart for Mexico City | Train or bus from Toluca (~1-1.5 hrs) |
-| 10:00 AM | Arrive CDMX, explore Roma/Condesa | Coffee, walk tree-lined streets, architecture |
-| 1:00 PM | **Lunch at Contramar** | Reserve ahead - see details below |
-| 3:00 PM | **Pick one activity**: | Don't try to do everything |
-| | - Coyoacán neighborhood | Colonial charm, Frida Kahlo Museum area |
-| | - Chapultepec Castle | Views, history, beautiful grounds |
-| | - Just wander Roma/Condesa | Window shop, people watch, taco hunt |
-| 5:00 PM | Tacos & street food | Hit a taquería before heading back |
-| 7:00 PM | Return to Toluca | Train/bus back, easy evening |
-
-#### Getting to Mexico City
-
-| Option | Duration | Cost | Notes |
-|--------|----------|------|-------|
-| **Tren Interurbano México-Toluca** | ~40 min | ~$2-3 USD | New train! Opens late Jan 2026 - check if operational |
-| **Bus (Flecha Roja/ETN)** | 1-1.5 hrs | ~$8-12 USD | Frequent departures from Terminal Toluca |
-| **Drive** | 1-1.5 hrs | Variable | Traffic can be brutal - bus/train recommended |
-
-**Note**: The new train may open right around your trip dates. If not yet running, take the bus - it's comfortable and frequent.
-
-#### Contramar Restaurant
-
-| Detail | Info |
-|--------|------|
-| **What** | Iconic Mexico City seafood institution since 1998 |
-| **Known For** | Tuna tostadas, *pescado a la talla* (red & green chili halves) |
-| **Vibe** | Casual elegance, always buzzing, power lunch crowd |
-| **Price** | ~$30-50 USD per person |
-| **Hours** | Daily 1pm-6:30pm (lunch only) |
-| **Address** | Calle de Durango 200, Roma Norte |
-| **Reserve** | **Essential** - call +52 55 5514 9217 or OpenTable |
-
-**Alternative**: If Contramar is booked, try **Mariscos El Pollo** (casual, delicious, less famous).
-
-#### Mexico City Street Food & Tacos
-
-Don't leave without hitting at least one of these:
-
-| Spot | Location | Known For | Vibe |
-|------|----------|-----------|------|
-| **Tacos El Califa de León** | Multiple locations | Al pastor, bistec - Michelin Bib Gourmand | Quick, no-frills, legendary |
-| **El Huequito** | Centro/Condesa | Al pastor pioneers since 1959 | Institution, cash only |
-| **Taquería Orinoco** | Roma Norte | Sonoran-style carne asada, flour tortillas | Northern Mexico style |
-| **Taquería Los Cocuyos** | Centro Histórico | Late night tacos de cabeza, suadero | Adventurous, 24-hr |
-| **Mercado Roma** | Roma Norte | Food hall with many vendors | Good for variety, upscale market |
-
-**Pro tip**: Ask your partner - Chilangos (Mexico City natives) are particular about their tacos. She'll know the real spots.
-
----
-
-### Day 4: Tuesday, January 20 - Volcano → Flight to Beach
+### Day 3: Monday, February 23 - Volcano Day
 
 | Time | Activity | Notes |
 |------|----------|-------|
 | 5:30 AM | Depart for Nevado de Toluca | Early start for best conditions |
-| 7:30 AM | Hike to crater lagoons | Sun Lake & Moon Lake. Go at your own pace |
-| 11:00 AM | Descend, snacks at car | Pack breakfast/snacks - no facilities up there |
-| 12:30 PM | Return to Toluca | Shower, pack, drop rental car |
-| 3:00 PM | Head to airport | TLC or MEX depending on flight |
-| 5-6 PM | Flight to beach | ~1 hr to ZIH or ~1.5 hrs to PVR |
-| Evening | Arrive at beach destination | Taxi to hotel, light dinner, early sleep |
+| 7:30 AM | Hike to crater lagoons | Sun Lake & Moon Lake |
+| 11:00 AM | Descend, snacks | Pack breakfast - no facilities up there |
+| 1:00 PM | Return to Toluca | Rest, shower |
+| 3:00 PM | Optional: Calixtlahuaca ruins | Aztec circular pyramid, 30 min from centro |
+| Evening | Pack for Oaxaca | Early flight tomorrow |
 
-**Hiking Note**: Nevado is at 15,000+ ft. Go slow, stay hydrated, bring warm layers (it's cold up there even in summer).
+### Toluca Food
 
-**Flight Tip**: Book a 5-7 PM departure. Gives buffer after the hike.
-
----
-
-## Days 5-8: Zihuatanejo (Jan 21-24)
-
-*Relaxation, authentic Mexico, fresh seafood + Tequila Rock 'n Blues Festival!*
-
-| Day | Date | Theme | Festival |
-|-----|------|-------|----------|
-| **Day 5** | Wed, Jan 21 | Settle in, explore town, sunset beach | - |
-| **Day 6** | Thu, Jan 22 | Snorkeling at Las Gatas | **Pre-fest meet & greet (evening)** |
-| **Day 7** | Fri, Jan 23 | Flex day | **Opening Night @ Madana Bar (6-11pm)** |
-| **Day 8** | Sat, Jan 24 | Final beach day | **Beach Party @ Coco Ixtapa (1:30-4:30pm)** |
+| Dish | What It Is | Where |
+|------|------------|-------|
+| **Chorizo verde** | Green chorizo - Toluca's signature | Mercado 16 de Septiembre |
+| **Mosquitos** | Tiny tacos (named for size!) | Street vendors |
+| **Mixiotes** | Meat in maguey leaves | Traditional restaurants |
 
 ---
 
-## Zihuatanejo Seafood Guide
+## Day 4: Tuesday, February 24 - Fly to Oaxaca
 
-This is a fishing town - the seafood is exceptional. Here's where to eat:
-
-### Top Picks
-
-| Restaurant | Location | Known For | Vibe |
-|------------|----------|-----------|------|
-| **Tritón** | Playa La Ropa | Tuna tataki, octopus taco, catch of the day | Toes in sand, live music, sunset views |
-| **La Sirena Gorda** | Downtown pier | Fish tacos, *sirenita* tacos, octopus with bacon | Legendary since 1985, local institution |
-| **Kau-Kan** | Beachfront | Stingray in black butter, creative seafood | Upscale, romantic, Chef Ricardo Rodriguez |
-| **La Gaviota** | End of La Ropa | Whole grilled fish, traditional preparations | Decades-old, stunning bay views |
-| **El Manglar** | Playa La Ropa | Deep-fried fish tacos, mahi mahi, fajitas | Wildlife (iguanas!), relaxed |
-| **La Perla** | Playa La Ropa | Grilled snapper, lobster, shrimp | Classic beachfront, reasonable prices |
-
-### Must-Try Dishes
-
-- **Pescado a la talla** - butterflied whole fish, grilled with chili-mayo. THE regional specialty.
-- **Tiritas** - raw fish cured in lime juice with onion and chili (Zihuatanejo's ceviche)
-- **Tacos de pescado** - simple, fresh, perfect
-- **Huachinango** (red snapper) - prepared any style, it's local and ultra-fresh
-- **Ceviche** - varies by restaurant, always good
-
-### By Meal
-
-| Meal | Best Bets |
-|------|-----------|
-| **Breakfast** | Margaritas (La Madera) - chilaquiles, huevos rancheros |
-| **Casual Lunch** | La Sirena Gorda, any beachfront palapa |
-| **Nice Dinner** | Kau-Kan, Tritón, La Gaviota |
-| **Splurge** | Tritón at sunset with wine |
-| **Late Night** | Bandido's - molcajete fajitas, live music, dancing |
-
-### Where Locals Eat (Budget-Friendly)
-
-Skip the tourist prices - these are the spots locals know:
-
-| Restaurant | Location | What to Get | Price |
-|------------|----------|-------------|-------|
-| **Los Braseros** | Ejido 14, Centro | Fish tacos (secret batter recipe), tacos al pastor | $ |
-| **Mariscos Chuy** | Across harbor footbridge | Owner's daily catch, fresh and simple | $ |
-| **Marisquería El Colombiano** | Corner of Galeana & González | Fresh oysters, ceviche | $ |
-| **Marisquería Don Bieto** | Dario Galeana (Circuito Principal 19) | Shrimp, fish - excellent and cheap | $ |
-| **Fonda Doña Licha** | Near Mercado Municipal | Chicken enchiladas with green sauce, seafood | $ |
-| **Central Market** | Av. Benito Juárez, 5 blocks inland | Best for breakfast/lunch before it winds down | $ |
+| Time | Activity | Notes |
+|------|----------|-------|
+| Morning | Taxi to Toluca airport (TLC) or MEX | Depending on flight |
+| | **Flight to Oaxaca** | ~1 hr direct |
+| Afternoon | Arrive Oaxaca City | Taxi to hotel in Centro |
+| Late Afternoon | Walk the Zócalo | Get oriented, first mezcal |
+| Evening | Dinner at a traditional spot | Try tlayudas or mole |
 
 ---
 
-## Beyond Seafood: Meat, Tacos & Traditional Dishes
+## Days 5-7: Oaxaca City (Feb 25-27)
 
-Not everything has to be fish! Zihuatanejo has excellent options for carnivores:
+*See [Oaxaca Food Guide](oaxaca-food-guide.md) and [Mezcal Guide](mezcal-guide.md) for details*
 
-### Tacos & Grilled Meats
+### Day 5: Wednesday, February 25 - Explore Centro
 
-| Restaurant | Location | Known For | Vibe |
-|------------|----------|-----------|------|
-| **Asadero Julios** | Downtown | Carnitas - slow-cooked pork, fall-apart tender | Local favorite, no frills |
-| **Papa Locas** | Centro | Arrachera (skirt steak), loaded baked potatoes | Casual, filling, cheap |
-| **Los Braseros** | Ejido 14 | Tacos al pastor (spit-roasted pork), carne asada | Cash only, locals-only vibe |
-| **Tacos Lupe** | Near market | Various meat tacos, late night option | Street-side, authentic |
+| Time | Activity | Notes |
+|------|----------|-------|
+| 9:00 AM | Breakfast at Boulenc | Best bakery in Oaxaca |
+| 10:30 AM | Mercado Benito Juárez | Chapulines, chocolate, mole pastes |
+| 12:30 PM | **Mercado 20 de Noviembre** | Rick Bayless's "last meal" spot - meat aisle! |
+| 3:00 PM | Wander Centro, shops, galleries | Textiles, alebrijes, black pottery |
+| Evening | Dinner at **Los Danzantes** | Bayless's #1 pick - reserve ahead |
 
-### Traditional Mexican Dishes
+### Day 6: Thursday, February 26 - Zaachila Market Day!
 
-| Dish | What It Is | Where/When |
-|------|------------|------------|
-| **Pozole** | Hearty hominy soup with pork/chicken, topped with cabbage, radish, oregano | Thursday tradition - many restaurants serve it |
-| **Cochinita pibil** | Yucatecan slow-roasted pork in achiote | Los de Cochinita (near market), Sundays especially |
-| **Barbacoa** | Slow-cooked beef, traditionally pit-roasted | Margaritas (La Madera) - weekends |
-| **Birria** | Spiced goat/beef stew, consomé on the side | Ask locals - varies by day |
-| **Tamales** | Corn masa with fillings, steamed in corn husks | Morning vendors, market |
+| Time | Activity | Notes |
+|------|----------|-------|
+| 9:00 AM | Drive to Zaachila (~30 min) | **Thursday = market day** |
+| 10:00 AM | **La Capilla** | Rick's barbacoa spot - 65+ years old! |
+| 12:00 PM | Explore Zaachila market | Authentic village market |
+| 3:00 PM | Return, rest | Or **Caldo de Piedra** day trip (stone soup!) |
+| 5:00 PM | **Mezcal tasting** | In Situ or La Mezcaloteca (reserve!) |
+| Evening | Casual dinner | Tlayudas Libres (evenings only) |
 
-### Thursday Pozole Tradition
+### Day 7: Friday, February 27 - Cooking Class Day
 
-In Guerrero state (where Zihuatanejo is located), **Thursday is pozole day**. Many restaurants and families make this hearty soup specifically on Thursdays. It's usually served with:
-- Shredded cabbage, radish, onion
-- Dried oregano, lime, chile flakes
-- Tostadas on the side
+| Time | Activity | Notes |
+|------|----------|-------|
+| Morning | **Cooking class** | See options below |
+| Afternoon | Last Centro exploration | Buy mezcal to take home |
+| Evening | Final Oaxaca dinner | Casa Oaxaca or Origen |
 
-**Where to get it**: Ask your hotel or just follow the locals on Thursday afternoon. Many beachfront restaurants will have a special pozole menu.
+#### Cooking Class Options
 
-### Breakfast Beyond the Beach
-
-| Spot | What to Get |
-|------|-------------|
-| **Margaritas** (La Madera) | Chilaquiles (crispy tortillas in salsa), huevos rancheros, fresh juice |
-| **Central Market** | Tamales in the morning, fresh fruit, coffee |
-| **Any fonda** | Huevos a la mexicana, molletes (open-faced bean/cheese baguette) |
-
----
-
-## Hidden Gems & Local Tips
-
-### Baby Turtle Release (Aug-Feb)
-
-One of the most magical experiences in Zihuatanejo - releasing baby sea turtles at sunset.
-
-| Detail | Info |
-|--------|------|
-| **Where** | Campamento Tortuguero Ayotlcalli, Playa Blanca |
-| **When** | Aug-Feb, releases at sunset (usually 5-6pm) |
-| **Cost** | Free (donations appreciated) |
-| **What happens** | Short talk about conservation, then you release hatchlings into the ocean |
-| **Why sunset?** | Birds (their main predators) can't see them at night |
-| **Contact** | +52 755 559 0441 - call ahead to confirm timing |
-| **Getting there** | Short taxi ride (~15 min), near the airport |
-
-**Tip**: Check Facebook group "Fun Things to do in Zihuatanejo/Ixtapa" - releases are often announced same-day.
-
-### Barra de Potosí Day Trip
-
-A sleepy fishing village 45 min south - like Zihuatanejo was 60 years ago.
-
-| What | Details |
-|------|---------|
-| **The Lagoon** | 4-mile saltwater lagoon, 800 hectares of mangrove - major birdwatching site |
-| **Birds** | 200+ species including roseate spoonbills, frigatebirds, herons, pelicans |
-| **Boat Tours** | Local guide Avi Banuelos does excellent small-boat tours - birding, mangrove walk, fishing net demo |
-| **Lunch** | Eat at the *enramadas* (palapa restaurants) on the lagoon - ultra-fresh, ultra-cheap seafood |
-| **Getting there** | Taxi (~$20 USD) or bus from downtown + collectivo pickup truck (~$1.70 total, adventure included) |
-
-**Best for**: Bird lovers, photographers, anyone wanting to see untouched Mexico.
-
-### Sunset Viewpoints
-
-| Spot | Vibe |
-|------|------|
-| **Playa La Ropa** | Best sunsets in December when sun sets directly over the bay |
-| **Cerro del Vigía restaurants** | Hilltop bars with panoramic bay views: Amuleto, Solana, La Escollera, El Suspiro |
-| **Paseo del Pescador** | Downtown waterfront - casual, local atmosphere |
-
-### Snorkeling Secret
-
-At Playa Las Gatas, ask your guide to show you the **sunken bronze Christ statue** underwater - most tourists miss it.
-
-### Local Lingo
-
-If someone calls you **"zanca"** (or "zancas" plural) - it means friend/brother, like "dude." It's a sign of respect and means you've been accepted.
-
-### Staying Connected
-
-Websites here are often outdated. For real-time info:
-- **Facebook**: "Zihuatanejo Let's Chat" and "Fun Things to do in Zihuatanejo/Ixtapa"
-- **Best approach**: Ask people on the beach - locals know more than Google
+| Class | Who | Why |
+|-------|-----|-----|
+| **Seasons of My Heart** | Susana Trilling (Rick Bayless's friend) | Ranch outside city, most immersive, book 2+ weeks ahead |
+| **Me Encanta Oaxaca** | Betsaida (Zapotec woman) | Indigenous perspective, most authentic |
+| **Reyna's Traditional Zapotec** | Reyna Mendoza | In Teotitlán del Valle village |
 
 ---
 
-## The Beaches
+## Days 8-9: San José del Pacífico (Feb 28 - March 1)
 
-| Beach | Vibe | Best For |
-|-------|------|----------|
-| **Playa La Ropa** | Main beach, golden sand, calm water | Swimming, lounging, sunset drinks |
-| **Playa Las Gatas** | Protected cove, water taxi access | Snorkeling, family-friendly |
-| **Playa Madera** | Local beach, near downtown | Swimming, quieter, walkable |
-| **Playa Principal** | Fishing boats, downtown | Photos, atmosphere (not swimming) |
+*See [San José del Pacífico Guide](san-jose-del-pacifico.md) for full details on temazcal, mushrooms, and safety info*
 
-## Day 5: Wednesday, January 21 - Arrive & Settle In
+### Day 8: Saturday, February 28 - Into the Mountains
 
-| Time | Activity |
-|------|----------|
-| Morning | Sleep in - you earned it after the volcano |
-| Late Morning | Breakfast at hotel or walk to town |
-| Afternoon | Explore Zihuatanejo downtown - fishing pier, small streets, get oriented |
-| 4:00 PM | Head to Playa La Ropa |
-| Sunset | Drinks and dinner on the beach |
+| Time | Activity | Notes |
+|------|----------|-------|
+| 9:00 AM | Depart Oaxaca City | Rent car or hire driver |
+| 12:00 PM | Arrive San José del Pacífico | Winding roads - Dramamine! |
+| 1:00 PM | Check in, lunch | **Cabañas Pacífico (Tío's)** or **Cabañas Rubí** |
+| Afternoon | Rest, explore tiny town | Cash only - bring enough pesos |
+| 5:30 PM | **Sunset viewpoint** | Magical |
+| Evening | Cozy dinner, early sleep | It's cold - bring layers |
 
-**Where to Eat**:
-- **La Sirena Gorda** (downtown pier) - legendary since 1985, try the fish tacos
-- **La Perla** (beachfront) - grilled snapper, lobster, ocean view
+### Day 9: Sunday, March 1 - Mountain Day
 
----
+| Time | Activity | Notes |
+|------|----------|-------|
+| Morning | Sleep in, coffee with mountain views | |
+| 10:00 AM | **Pick one**: | |
+| | - **Temazcal ceremony** | Deeply recommended - see guide |
+| | - Hike the forest trails | |
+| | - Mushroom tea (off-season, honey-preserved) | See safety info in guide |
+| | - Do nothing | Read, stare at clouds |
+| Evening | Final mountain sunset | You'll want to stay longer |
 
-## Day 6: Thursday, January 22 - Snorkeling + Pre-Fest
+#### Where to Stay
 
-| Time | Activity |
-|------|----------|
-| 9:00 AM | Breakfast downtown |
-| 10:00 AM | Water taxi to Playa Las Gatas (~$3-5 USD, 10 min ride) |
-| 10:30 AM | Snorkel the reef - calm, clear, easy |
-| 12:30 PM | Beachside lunch at Las Gatas |
-| 2:00 PM | More beach time, or explore the cove |
-| 4:00 PM | Water taxi back |
-| 5:00 PM | Stroll Paseo del Pescador (fisherman's walkway) |
-| 6:00 PM | Early dinner |
-| 8:00 PM | 🎸 **Pre-Fest Meet & Greet** - meet performers, live rehearsal (free for ticket holders) |
-
-**Where to Eat**:
-- **Kau-Kan** - upscale seafood, beachfront, stingray in black butter is the signature
-- **Bandido's** - downtown, famous molcajete fajitas, live music, locals dance
-
-**Snorkel Alternative**: Book a morning trip to Playa Manzanillo with Adventure Divers - more fish, less crowded, includes boat ride along undeveloped coast.
+| Place | Vibe |
+|-------|------|
+| **Cabañas Pacífico (Tío's)** | The original - 20+ years, most trusted |
+| **Cabañas Rubí** | Alternative - mushroom chocolates year-round |
+| **La Cumbre** | Budget hostel, social, great views |
 
 ---
 
-## Day 7: Friday, January 23 - Flex Day + Opening Night
+## Days 10-12: Beach (March 2-4)
 
-Pick your adventure (or don't):
+*See [Beach Guide](beach-guide.md) for restaurants and activities*
 
-**Option A: Barra de Potosí Day Trip** ⭐ *Hidden gem*
-- 45 min south to a sleepy fishing village
-- Lagoon boat tour with local guide (birding, mangroves)
-- Lunch at beachfront *enramada* - cheapest, freshest seafood you'll find
-- Back by afternoon, turtle release at sunset (if Aug-Feb)
+### Day 10: Monday, March 2 - To the Coast
 
-**Option B: Fishing Trip** (half-day, morning)
-- Sailfish, dorado, marlin depending on season
-- Captain makes ceviche from your catch
-- Back by noon, afternoon at the beach
+| Time | Activity | Notes |
+|------|----------|-------|
+| 9:00 AM | Depart San José | |
+| 12:30 PM | Arrive Mazunte | ~3.5 hr drive |
+| 1:00 PM | Check in, lunch | La Pizzeria or Doba |
+| 3:00 PM | Cosméticos Naturales de Mazunte | Woman-owned cooperative |
+| 5:30 PM | **Punta Cometa sunset** | Don't miss - southernmost point of Oaxaca |
+| Evening | Tacos at Los Poblanitos | Where locals eat |
 
-**Option C: Whale Watching** ⭐ *January is prime season!*
-- Humpback whales migrate to these warm waters Dec-March
-- Morning trips best (calmer seas)
-- Whales often swim right alongside boats
-- Combine with Picante sunset cruise for full day
+### Day 11: Tuesday, March 3 - Beach Day
 
-**Option D: Sunset Catamaran Cruise**
-- Picante Cruises is well-reviewed
-- Sails the bay, open bar, dinner included
-- May spot whales on evening cruise too
+| Time | Activity | Notes |
+|------|----------|-------|
+| 9:00 AM | Slow breakfast at Doba | Feet in sand |
+| 11:00 AM | **Pick one**: | |
+| | - **La Ventanilla** | Mangrove boat tour, crocodiles |
+| | - Snorkel at Playa Estacahuite | Turquoise cove |
+| | - Walk to Zipolite | Bohemian vibe |
+| 5:30 PM | Punta Cometa sunset (again) | Never gets old |
+| Evening | Dinner at El Armadillo | Garden setting, plant-based |
 
-**Option E: Baby Turtle Release** (Aug-Feb only)
-- Afternoon at beach, then taxi to Playa Blanca for 5-6pm release
-- Free, magical, unforgettable
-- Call ahead: +52 755 559 0441
+### Day 12: Wednesday, March 4 - Final Beach Day
 
-**Option F: Do Nothing**
-- Sleep late
-- Beach all day
-- That's the whole plan
-
-| Time | If Day Trip | If Relaxation |
-|------|-------------|---------------|
-| Morning | Barra de Potosí, fishing, or whale watching | Sleep in, slow breakfast |
-| Afternoon | Return, beach time | Playa La Ropa, pool, read |
-| 6:00 PM | 🎸 **Opening Night @ Madana Bar** (6-11pm) | Same - don't miss this! |
-
-**Where to Eat** (before the show):
-- **La Gaviota** (end of La Ropa beach) - decades of fresh seafood, stunning bay views
-- **Margaritas** (La Madera) - excellent breakfast spot, chilaquiles, huevos rancheros
+| Time | Activity | Notes |
+|------|----------|-------|
+| Morning | Beach, coffee at Café Panchatantra | Award-winning barista |
+| Afternoon | Last swim, wander San Agustinillo | Safest swimming |
+| Evening | **Farewell dinner at El Alquimista** | Splurge - best on coast (Zipolite) |
 
 ---
 
-## Day 8: Saturday, January 24 - Beach Day + Beach Party
+## Day 13: Thursday, March 5 - Departure
 
-| Time | Activity |
-|------|----------|
-| Morning | Sleep in, leisurely breakfast |
-| 11:00 AM | Beach time at La Ropa |
-| 1:30 PM | 🎸 **Beach Party @ Coco Ixtapa Beach Klub, Playa Linda** (1:30-4:30pm) |
-| 5:00 PM | Return to Zihuatanejo, sunset drinks |
-| 7:00 PM | Farewell dinner - splurge meal |
-| Evening | Pack, prepare for departure |
-
-**Splurge Meal**: Order *pescado a la talla* at Tritón or La Gaviota - it's the regional specialty.
-
-**Getting to Coco Ixtapa**: Taxi from Zihuatanejo to Playa Linda (~20 min, ~$15 USD)
+| Option | Details |
+|--------|---------|
+| **Fly from Puerto Escondido (PXM)** | 1 hr drive from Mazunte |
+| **Fly from Huatulco (HUX)** | 1.5 hr drive, more flight options |
+| **Return to Oaxaca City (OAX)** | 6 hr drive, fly out next day |
 
 ---
 
-## Day 9: Sunday, January 25 - Departure
+## Quick Booking Checklist
 
-| Time | Activity |
-|------|----------|
-| Morning | Final breakfast, beach walk |
-| | Check out |
-| | Taxi to ZIH airport (~20 min) |
-| | Depart Zihuatanejo |
+*See [Practical Info](practical-info.md) for full details*
 
-*Festival closing events happening today - if your flight is late, catch some before you go!*
+### Book NOW
 
----
+- [ ] International flights (Feb 21 arrive, March 5-6 depart)
+- [ ] MEX → OAX flight (Feb 24)
+- [ ] All hotels (4 locations)
+- [ ] Car rental (2 segments)
 
-## Practical Information
+### Book 2-4 Weeks Ahead
 
-### Flights
-
-| Route | Airlines | Duration | Notes |
-|-------|----------|----------|-------|
-| TLC → ZIH | Volaris, VivaAerobus | ~1 hr | Check for direct flights |
-| MEX → ZIH | Aeromexico, Volaris | ~1 hr | More flight options from MEX |
-
-### Ground Transportation
-
-| Segment | Recommendation |
-|---------|----------------|
-| Toluca region | **Rent a car** - essential for Nevado de Toluca, Valle de Bravo |
-| Toluca → Zihuatanejo | **Fly** - return rental car at TLC or MEX airport |
-| Zihuatanejo | Taxis sufficient, downtown is walkable |
-
-### Packing Checklist
-
-**For Toluca (High Altitude)**:
-- [ ] Layers (mornings/evenings cool, ~50-65°F)
-- [ ] Light jacket or fleece
-- [ ] Comfortable walking shoes
-- [ ] Warm hat and gloves (for Nevado de Toluca - it's genuinely cold)
-- [ ] Sunscreen (high altitude = stronger UV)
-
-**For Beach**:
-- [ ] Swimsuits (2-3)
-- [ ] Reef-safe sunscreen (good practice at Las Gatas reef)
-- [ ] Sandals and water shoes
-- [ ] Light, breathable clothing
-- [ ] Hat and sunglasses
-- [ ] Snorkel gear (optional - can rent)
-
-**General**:
-- [ ] Passport
-- [ ] Pesos cash (ATMs available, but have some on hand)
-- [ ] Spanish phrasebook/app
-- [ ] Motion sickness meds (winding mountain roads to Valle de Bravo)
-- [ ] Daypack for excursions
-
-### Budget Estimates (Per Person, USD)
-
-| Category | Budget | Mid-Range | Comfort |
-|----------|--------|-----------|---------|
-| Accommodations (8 nights) | $300-400 | $600-900 | $1,200+ |
-| Food & Drinks | $200-300 | $400-500 | $700+ |
-| Activities | $100-200 | $250-400 | $500+ |
-| Internal Transport | $150-250 | $300-400 | $450+ |
-| **Total (approx)** | **$750-1,150** | **$1,550-2,200** | **$2,850+** |
-
-*Excludes international flights to/from Mexico*
-
----
-
-## Pre-Trip Booking Checklist
-
-### Must Book in Advance
-
-| What | Details | When to Book | Links |
-|------|---------|--------------|-------|
-| ✈️ **International flights** | Arrive MEX or TLC on Sat, Jan 17 | ASAP - prices rise closer to date | Google Flights, Skyscanner |
-| ✈️ **Internal flight** | TLC or MEX → ZIH, Tue Jan 20 (5-7pm) | ASAP | [Volaris](https://www.volaris.com), [VivaAerobus](https://www.vivaaerobus.com) |
-| ✈️ **Return flight** | ZIH → Home, Sun Jan 25 | ASAP | Same as international |
-| 🏨 **Toluca hotel** | 3 nights (Jan 17, 18, 19) | 1-2 months ahead | Booking.com, Airbnb |
-| 🏨 **Zihuatanejo hotel** | 4 nights (Jan 20, 21, 22, 23) | 1-2 months ahead - festival week! | Booking.com, Airbnb |
-| 🚗 **Car rental** | Toluca region, pick up Jan 17, drop off Jan 20 at airport | 2-4 weeks ahead | Europcar, Hertz, local agencies |
-| 🍽️ **Amaranta reservation** | Sun, Jan 18, ~1:00 PM lunch | 2-4 weeks ahead | [amarantarestaurante.com](https://www.amarantarestaurante.com/) or OpenTable |
-| 🍽️ **Contramar reservation** | Mon, Jan 19, ~1:00 PM lunch | 2-4 weeks ahead | Call +52 55 5514 9217 or OpenTable |
-| 🎸 **Festival tickets** | Tequila Rock 'n Blues Fest (Jan 22-25) | ASAP - opening night sells out | [tequilabluesrock.com](https://tequilabluesrock.com/) |
-
-### Nice to Book Ahead (But Can Do Locally)
-
-| What | Details | Notes |
-|------|---------|-------|
-| 🐋 **Whale watching tour** | Jan 23 morning (flex day) | Can book locally, but popular in January |
-| 🎣 **Fishing trip** | Jan 23 morning option | Ask hotel to arrange or book on arrival |
-| ⛵ **Picante sunset cruise** | Any evening | [picantecruises.com](https://www.picantecruises.com/) or book locally |
-| 🤿 **Snorkel trip to Manzanillo** | Alternative to Las Gatas | Adventure Divers - can book on arrival |
+- [ ] Amaranta (Feb 22 lunch)
+- [ ] Los Danzantes (Feb 25 or 26)
+- [ ] La Mezcaloteca (required - no walk-ins)
+- [ ] Seasons of My Heart cooking class (if doing)
+- [ ] Palenque tour with Alvin
 
 ### Don't Need to Book
 
-| What | Why |
-|------|-----|
-| Baby turtle release | Free, just show up (call to confirm: +52 755 559 0441) |
-| Barra de Potosí day trip | Hire taxi day-of or take bus/collectivo |
-| Water taxi to Las Gatas | Show up at pier, boats leave frequently |
-| Most restaurants | Walk-ins fine (except Amaranta) |
+- In Situ mezcal tasting (walk-ins)
+- Beach restaurants
+- San José activities (arrange locally)
+- Punta Cometa (just show up)
 
 ---
 
-## Accommodation Notes
+## Key Highlights
 
-### Toluca (3 nights: Jan 17-19)
-
-| Option | Vibe | Location Tip |
-|--------|------|--------------|
-| **Hotel** | Convenient, central | Stay near Centro Histórico for walkability |
-| **Airbnb** | More space, kitchen | Good if visiting family nearby |
-| **With family?** | If partner's family is there... | Best option if available! |
-
-*Your partner likely knows the best areas - defer to her.*
-
-### Zihuatanejo (4 nights: Jan 20-23)
-
-| Area | Vibe | Best For |
-|------|------|----------|
-| **Playa La Ropa** | Beachfront, upscale | Walking out to sand, sunset views |
-| **Downtown/Centro** | Local, walkable to pier | Restaurants, atmosphere, budget-friendly |
-| **Playa Madera** | Quieter, between downtown and La Ropa | Balance of both |
-
-**Festival week note**: Book early! Jan 22-25 may have higher demand.
-
-**Recommended approach**:
-- La Ropa if you want beach access out your door
-- Downtown if you want to be in the action and walk to restaurants
-
----
-
-## Quick Reference: Key Bookings
-
-| Booking | Date Needed | Priority |
-|---------|-------------|----------|
-| Flights (international) | Jan 17 arrive, Jan 25 depart | 🔴 **Do first** |
-| Flights (internal) | Jan 20, 5-7pm | 🔴 **Do first** |
-| Hotels (both) | Jan 17-19 Toluca, Jan 20-24 Zihua | 🔴 **Do first** |
-| Car rental | Jan 17-20 | 🟡 Soon |
-| Amaranta | Jan 18 lunch | 🟡 Soon |
-| Contramar | Jan 19 lunch (CDMX day trip) | 🟡 Soon |
-| Festival tickets | Jan 22-25 events | 🟡 Soon (opening night sells out) |
-| Activities | Jan 23 | 🟢 Can wait |
+| Experience | Why It's Special |
+|------------|------------------|
+| **Amaranta** (Toluca) | Latin America's 50 Best |
+| **Mercado 20 de Noviembre** | Rick Bayless's "last meal" spot |
+| **La Capilla, Zaachila** | Thursday market + 65-year-old barbacoa |
+| **Caldo de Piedra** | Ancient stone soup - fire-heated volcanic rocks |
+| **Seasons of My Heart** | Susana Trilling - Rick Bayless's friend |
+| **Artisanal mezcal** | Real Minero or Lalocura palenque |
+| **Temazcal** | Traditional sweat lodge ceremony |
+| **Punta Cometa** | Sacred sunset point |
+| **El Alquimista** | Best dinner on the coast |
 
 ---
 
 ## Sources
 
-- [Amaranta Restaurant](https://www.amarantarestaurante.com/) - Chef Pablo Salas, Toluca
-- [Cultures Traveled - Best Restaurants in Zihuatanejo](https://culturestraveled.com/best-restaurants-zihuatanejo-mexico/)
-- [TripAdvisor - Zihuatanejo Restaurants](https://www.tripadvisor.com/Restaurants-g150795-Zihuatanejo_Zihuatanejo_de_Azueta_Pacific_Coast.html)
-- [Picante Cruises - Zihuatanejo](https://www.picantecruises.com/)
-- [TripAdvisor - Zihuatanejo Boat Tours](https://www.tripadvisor.com/Attractions-g150795-Activities-c61-t167-Zihuatanejo_Zihuatanejo_de_Azueta_Pacific_Coast.html)
-- [La Ropa Beach Guide](https://www.laropabeach.com/restaurants.html)
+See individual guides for full source lists.
